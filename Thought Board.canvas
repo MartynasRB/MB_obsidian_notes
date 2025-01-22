@@ -1,5 +1,606 @@
 {
-  "nodes": [],
+  "nodes": [
+    {
+      "id": "bcd028f8a09e2343",
+      "type": "text",
+      "text": "**For an effective baseline larger than zero, topographic signal is always mixed in with deformation, so *differential* interferometry is needed.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=34&annotation=3056R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001)(en)(308s) - libgen.li, page 34]]",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": -360,
+      "width": 480,
+      "height": 240
+    },
+    {
+      "id": "1c1091c4f256411c",
+      "type": "text",
+      "text": "**Azimuth resolution in a focused SAR image is related to the dimensions of the radar antenna - a small antenna with a broad beamwidth contains high-frequency information of a response, resulting in a broader azimuth bandwidth.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=44&annotation=3131R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 44]]",
+      "styleAttributes": {},
+      "x": -160,
+      "y": -360,
+      "width": 500,
+      "height": 300
+    },
+    {
+      "id": "11cdcd50d3c38ae0",
+      "type": "text",
+      "text": "**Azimuth resolution of a focused SAR image is equal to:** \n$$\nL_a/2\n$$\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=44&annotation=3131R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 44]]\n",
+      "styleAttributes": {},
+      "x": -160,
+      "y": -40,
+      "width": 500,
+      "height": 160
+    },
+    {
+      "id": "ae1d1f0eabe0a2e1",
+      "type": "text",
+      "text": "**Radar footprint width in azimuth direction at a distance *R* is:**\n\n$$\nW_a = (\\lambda/L_a)R\n$$\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=45&annotation=3142R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 45]]",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -360,
+      "width": 300,
+      "height": 280
+    },
+    {
+      "id": "a64993ee76167fdf",
+      "type": "text",
+      "text": "**In azimuth, the footprint is determined by the wavelength, antenna length and distance, while in range, the footprint is determined by the time interval of the pulse return registration.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=45&annotation=3142R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 45]]",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -360,
+      "width": 380,
+      "height": 270
+    },
+    {
+      "id": "766073ff19f5d0d3",
+      "type": "text",
+      "text": "**One cannot reduce antenna size infinitely because we trade off the size with the maximum attainable signal-to-noise ratio.**\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=44&annotation=3131R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 44]]",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -60,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "34e62da79ec8766f",
+      "type": "text",
+      "text": "**In coherent radars, the phase of the transmitted signal is retained and used as a reference against which the returned signal can be compared.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=41&annotation=3099R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 41]]",
+      "styleAttributes": {},
+      "x": -580,
+      "y": -120,
+      "width": 380,
+      "height": 240
+    },
+    {
+      "id": "22410f9484a9294f",
+      "type": "text",
+      "text": "**For InSAR, the radar must be coherent within the time span of the pulse.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=41&annotation=3089R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 41]]",
+      "styleAttributes": {},
+      "x": -560,
+      "y": -360,
+      "width": 360,
+      "height": 200
+    },
+    {
+      "id": "c847d237e5350973",
+      "type": "text",
+      "text": "**Repeat-pass interferometry is used for mapping: topography, deformation, change detection, atmospheric delay.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=35&annotation=3067R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001)(en)(308s) - libgen.li, page 35]]",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": -100,
+      "width": 440,
+      "height": 200
+    },
+    {
+      "id": "9eecc3a5c69246b7",
+      "type": "text",
+      "text": "**Long baselines increases noise (geometric decorrelation) but decreases effect of atmospheric disturbances in the derived DEM.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=37&annotation=3078R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001)(en)(308s) - libgen.li, page 37]]",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": 120,
+      "width": 480,
+      "height": 200
+    },
+    {
+      "id": "d00a3738e6c9b333",
+      "type": "text",
+      "text": "**Somewhat general signal reception workflow:**\n1. **Signal echo is received by the antenna.**\n2. **Routing via the waveguide through the circulator assembly.**\n3. **Amplification in a low-noise amplifier.**\n4. **Mixing with the local oscillator signal to provide a down-converted signal at an intermediate frequency.**\n5. **The sample of the transmitted waveform is also down-converted (this is the replica).**\n6. **The signals are routed through a pulse compressor.**\n7. **Convertion in the A/D converted to the real (in-phase) and imaginary (quadrature) parts.**\n8. **The bit-stored digital signal is downlinked.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=42&annotation=3120R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 42]]\n",
+      "styleAttributes": {},
+      "x": -580,
+      "y": 160,
+      "width": 620,
+      "height": 440
+    },
+    {
+      "id": "e08a46596b1735e0",
+      "type": "text",
+      "text": "**We can improve the range resolution by using matched filtering on the received pulse, known as *chirp compression***\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=46&annotation=3153R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 46]]",
+      "styleAttributes": {},
+      "x": 60,
+      "y": 160,
+      "width": 400,
+      "height": 220
+    },
+    {
+      "id": "b38eb8482a9e6978",
+      "type": "text",
+      "text": "**The chirp is weighted with a filter to reduce sidelobe effects, zero-padded and Fourier transformed. The replica is also zero-padded and transformed, and multiplied with the RRF.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=48&annotation=3164R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 48]]",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 140,
+      "width": 440,
+      "height": 240
+    },
+    {
+      "id": "0b10bccaebe2f54b",
+      "type": "text",
+      "text": "**The center frequency of the passage of a point scatterer through the antenna beam is the *Doppler centroid frequency.***\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=49&annotation=3195R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 49]]",
+      "styleAttributes": {},
+      "x": 850,
+      "y": -70,
+      "width": 420,
+      "height": 200
+    },
+    {
+      "id": "3f0f09a5401a2011",
+      "type": "text",
+      "text": "**The *zero-Doppler* is the direction in which the Doppler frequency equals to zero.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=49&annotation=3185R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 49]]",
+      "styleAttributes": {},
+      "x": 1080,
+      "y": -360,
+      "width": 440,
+      "height": 160
+    },
+    {
+      "id": "e97630d94ea35493",
+      "type": "text",
+      "text": "**The Doppler bandwidth determines the azimuth resolution of the focused SAR image: **\n\n$$\n\\Delta_a = v_{sc}/B_{Dop}\n$$\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=50&annotation=3226R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 50]]",
+      "styleAttributes": {},
+      "x": 940,
+      "y": 140,
+      "width": 450,
+      "height": 220
+    },
+    {
+      "id": "ccb03c14ab2b3e95",
+      "type": "text",
+      "text": "**The variation of the Doppler frequency during the passage of the scatterer through the beam is expressed by the *Doppler bandwidth*.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=49&annotation=3205R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 49]]",
+      "styleAttributes": {},
+      "x": 1540,
+      "y": -360,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "a9e4ab6110789b52",
+      "type": "text",
+      "text": "**Scatterers that have a velocity component in the direction of the radar appear displaced in the focused image.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=50&annotation=3236R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 50]]",
+      "styleAttributes": {},
+      "x": 1540,
+      "y": -160,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "556481f5bf80c490",
+      "type": "text",
+      "text": "**Single scatterers appear shifted in different range bins in consecutive pulses. This is *range migration*.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=51&annotation=3247R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 51]]",
+      "styleAttributes": {},
+      "x": 2040,
+      "y": -360,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "48801767a15b18e1",
+      "type": "text",
+      "text": "**Range compression is done by matched filtering (convolution) of a reference chirp with the received pulse. Azimuth compression is done by convolution of the predicted Doppler-rate (phase history) of a scatterer with the received signal.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=51&annotation=3257R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 51]]",
+      "styleAttributes": {},
+      "x": 1420,
+      "y": 30,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "ed766d10271086a0",
+      "type": "text",
+      "text": "***Multilooking* can be applied in the range-Doppler domain by segmenting the Doppler spectrum in a number of subsets (*looks*) and summing these looks.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=51&annotation=3267R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 51]]",
+      "styleAttributes": {},
+      "x": 2040,
+      "y": -160,
+      "width": 480,
+      "height": 210
+    },
+    {
+      "id": "cfcbc95c0c76a457",
+      "type": "text",
+      "text": "***Resolution* - the minimum distance at which two distinct scatterers with the same brightness can be uniquely discerned as separate signals.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=52&annotation=3278R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 52]]",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": 70,
+      "width": 440,
+      "height": 200
+    },
+    {
+      "id": "3caf9bca87695533",
+      "type": "text",
+      "text": "***Effective/perpendicular baseline* - the effective distance between two sensors measured perpendicular to the look direction.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=54&annotation=3319R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 54]]",
+      "styleAttributes": {},
+      "x": 1420,
+      "y": 290,
+      "width": 460,
+      "height": 180
+    },
+    {
+      "id": "f1aa8a6510b86f33",
+      "type": "text",
+      "text": "**The phase observation for a single resolution cell can be regarded as the sum of the phase proportional to the distance and the phase due to scattering characteristics of the cell (disregarding atmopsheric delay).**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=54&annotation=3329R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 54]]",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": 300,
+      "width": 540,
+      "height": 200
+    },
+    {
+      "id": "a02a45f2448b7f41",
+      "type": "text",
+      "text": "***Coherent imaging* - scattering phase is unpredictable but deterministic, i.e. if the same measurement would be repeated under exactly the same conditions, it would yield the same phase.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=54&annotation=3329R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 54]]",
+      "styleAttributes": {},
+      "x": 2560,
+      "y": -370,
+      "width": 500,
+      "height": 200
+    },
+    {
+      "id": "c42f435de65180af",
+      "type": "text",
+      "text": "**You cannot create interferometric pairs from SAR images acquired from different orbital tracks.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=62&annotation=3361R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 62]]",
+      "styleAttributes": {},
+      "x": 2560,
+      "y": -150,
+      "width": 340,
+      "height": 200
+    },
+    {
+      "id": "cda8ada6691cc9ab",
+      "type": "text",
+      "text": "**Perpendicular baselines indicate sensitivity to topographic height, phase gradient decorrelation amount and phase unwrapping effectiveness. Good perp baselines for topographic mapping range between 100-500 m.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=62&annotation=3371R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 62]]",
+      "styleAttributes": {},
+      "x": 3100,
+      "y": -380,
+      "width": 540,
+      "height": 210
+    },
+    {
+      "id": "967f2757454d8b24",
+      "type": "text",
+      "text": "**A complex interferogram is constructed by a pointwise complex multiplication of corresponding pixels in both datasets.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=70&annotation=3435R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 70]]",
+      "styleAttributes": {},
+      "x": 2920,
+      "y": -150,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "a723c300f0d809ca",
+      "type": "text",
+      "text": "**Multilooking can be applied to the ingram to decrease noise - averaging over a moving window. This is a different meaning of multilooking than in SAR processing.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=71&annotation=3456R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 71]]",
+      "styleAttributes": {},
+      "x": 2400,
+      "y": 75,
+      "width": 500,
+      "height": 190
+    },
+    {
+      "id": "b15511871af70b55",
+      "type": "text",
+      "text": "**Residues in the wrapped phase indicate noise of undersampling. Residues can be discharged by connecting nearby positive and negative residues.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=74&annotation=3478R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 74]]",
+      "styleAttributes": {},
+      "x": 3680,
+      "y": -380,
+      "width": 440,
+      "height": 200
+    },
+    {
+      "id": "029e68f6d528a207",
+      "type": "text",
+      "text": "**2D relative phase signal is a 2pi modulus of the unknown absolute phase signal. The inverse problem is to unwrap this modulus to a linear scale, but it is non-unique and non-linear. Noise, geometric problems can cause issues.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=73&annotation=3467R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 73]]",
+      "styleAttributes": {},
+      "x": 2920,
+      "y": 75,
+      "width": 400,
+      "height": 265
+    },
+    {
+      "id": "8ff20184c985987b",
+      "type": "text",
+      "text": "**Parameters affecting interferometric phase:** \n1. **Topographic height.**\n2. **Deformation in slant direction.**\n3. **Slant-atmospheric delay during acquisition 1.**\n4. **Slant-atmospheric delay during acquisition 2.**\n5. **Integer ambiguity number.**\n\n**These parameters cause a rank defect of *4m*. To solve it, we need to add more observations, introduce deterministic a priori information or reformulate the model.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=83&annotation=3529R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 83]]",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": -150,
+      "width": 660,
+      "height": 390
+    },
+    {
+      "id": "57da3aaadf0172ab",
+      "type": "text",
+      "text": "**Atmospheric signal causes uncertainty. It is not noise immediately since the effects are spatially correlated and significant.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=84&annotation=3540R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 84]]",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": 260,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "431aa18cda812a45",
+      "type": "text",
+      "text": "**Generic linearized functional model of repeat-pass interferometry:**\n\n![[Pasted image 20250122140723.png]]\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=84&annotation=3550R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 84]]",
+      "styleAttributes": {},
+      "x": 4160,
+      "y": -380,
+      "width": 360,
+      "height": 300
+    },
+    {
+      "id": "e58c6647dfa344b9",
+      "type": "text",
+      "text": "**Extended generic functional model for two-pass interferometry: **\n\n![[Pasted image 20250122140818.png]]\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=92&annotation=3581R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 92]]",
+      "styleAttributes": {},
+      "x": 4040,
+      "y": -50,
+      "width": 600,
+      "height": 360
+    },
+    {
+      "id": "450cf7648b14d936",
+      "type": "text",
+      "text": "**Radar interferometry is a parameter estimation problem, where the observations consist of complex-valued numbers for all resolution cells and the parameters depend on the goal of the study.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=106&annotation=3592R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 106]]",
+      "styleAttributes": {},
+      "x": 4540,
+      "y": -380,
+      "width": 480,
+      "height": 220
+    },
+    {
+      "id": "a6cfc1cef8064e5a",
+      "type": "text",
+      "text": "**If the size of the resolution cell is many times larger than the radar wavelength, many scatterers contribute to the response for one resolution cell. We cannot determine individual responses within a resolution cell like that. This is the *speckle*.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=108&annotation=3613R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 108]]",
+      "styleAttributes": {},
+      "x": 4660,
+      "y": -140,
+      "width": 480,
+      "height": 235
+    },
+    {
+      "id": "271454c28314d045",
+      "type": "text",
+      "text": "***Speckle* - pixel intensity variation for a distributed scene, expressed by the exponential probability density function.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=110&annotation=3634R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 110]]\n",
+      "styleAttributes": {},
+      "x": 4660,
+      "y": 130,
+      "width": 480,
+      "height": 170
+    },
+    {
+      "id": "439660acbfa55c27",
+      "type": "text",
+      "text": "**PDF of the phase has a uniform distribution, but the phase of the complex product of two circular Gaussian signals is not, as long as the two signals have some correlation.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=110&annotation=3644R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 110]]",
+      "styleAttributes": {},
+      "x": 4660,
+      "y": 340,
+      "width": 480,
+      "height": 200
+    },
+    {
+      "id": "5f8b4cd4fadefdb7",
+      "type": "text",
+      "text": "**Standard deviation of the interferometric phase as a function of coherence:**\n\n![[Pasted image 20250122141229.png]]\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=114&annotation=3673R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 114]]",
+      "styleAttributes": {},
+      "x": 4180,
+      "y": 340,
+      "width": 460,
+      "height": 460
+    },
+    {
+      "id": "774a3655addecc33",
+      "type": "text",
+      "text": "**For point scatterers, the amplitude behavior is an indication of phase variance.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=115&annotation=3683R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 115]]",
+      "styleAttributes": {},
+      "x": 4660,
+      "y": 580,
+      "width": 480,
+      "height": 140
+    },
+    {
+      "id": "9e805f1b9a153ae1",
+      "type": "text",
+      "text": " **Complex coherence between two zero-mean circular Gaussian variables:**\n![[Pasted image 20250122141335.png]]\n![[Pasted image 20250122141410.png]]\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=115&annotation=3693R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 115]]",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": 460,
+      "width": 500,
+      "height": 280
+    },
+    {
+      "id": "c4e530f1bee1024d",
+      "type": "text",
+      "text": "**Systematic phase variation needs to be exlcuded if coherence is used for classifying terrain types derived from the noise level of the data.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=117&annotation=3745R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 117]]",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": 760,
+      "width": 500,
+      "height": 180
+    },
+    {
+      "id": "c3dde35035e2abda",
+      "type": "text",
+      "text": "**Sources of decorrelation:**\n1. **Baseline or geometric (surface) decorrelation - difference in incidence angles between acquisitions.**\n2. **Doppler centroid decorrelation - difference in Doppler centroids between acquisitions.**\n3. **Volume decorrelation - penetration of the radar wave in the scattering medium.**\n4. **Thermal/system noise - characteristics of the system, including gain factors and antenna characteristics.**\n5. **Temporal terrain decorrelation - physical changes in the terrain, affecting the scattering characteristics of the surface.**\n6. **Processing decorrelation - insufficient coregistration and interpolation.**\n\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=117&annotation=3775R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 117]]",
+      "styleAttributes": {},
+      "x": 2730,
+      "y": 380,
+      "width": 590,
+      "height": 500
+    },
+    {
+      "id": "f540e2f80d545ef0",
+      "type": "text",
+      "text": "**Errors induced by the integration of phase gradients can propagate through the ingram.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=130&annotation=3819R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 130]]",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": 520,
+      "width": 540,
+      "height": 140
+    },
+    {
+      "id": "49421e7dbd37054d",
+      "type": "text",
+      "text": "**Mention of the first observations of atmospheric delay variations (1995-1996)**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=149&annotation=3841R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 149]]",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": 700,
+      "width": 540,
+      "height": 140
+    },
+    {
+      "id": "0f2be1c54c1f8d57",
+      "type": "text",
+      "text": "**Types of atmospheric signal:**\n1. **Turbulent mixing - turbulent processes in the atmosphere cause spatial heterogeneity in the refractivity in both acquisitions, affects flat and mountainous terrain.**\n2. **Vertical stratification - different vertical refractivity profiles during the acquisitions, assuming there is no heterogeneity within the horizontal layers. Affects only mountainous terrain, and is correlated with topography.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=150&annotation=3902R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 150]]",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": 880,
+      "width": 640,
+      "height": 340
+    },
+    {
+      "id": "dfda0fa31eb8c244",
+      "type": "text",
+      "text": "**Atmospheric signal within ingrams is highly variable in time.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=150&annotation=3912R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 150]]",
+      "styleAttributes": {},
+      "x": 2740,
+      "y": 920,
+      "width": 540,
+      "height": 130
+    },
+    {
+      "id": "139fae3e7118bfbf",
+      "type": "text",
+      "text": "**Turbulent mixing is a result of different tropospheric processes (solar heating, wind direction difference, velocity at layers, frictional drag, large scale weather systems). **\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=151&annotation=3923R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 151]]",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": 1240,
+      "width": 620,
+      "height": 180
+    },
+    {
+      "id": "f105e9e41ebfc767",
+      "type": "text",
+      "text": "**Atmospheric delay scale regimes:**\n1. **Larger than the thickness of the turbulent layer (2-200 km)**\n2. **Smaller than the thickness of the turbulent layer (resolution cell to 2km). Smoother refractive behavior.**\n3. **No physical explanation, very small.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=161&annotation=3985R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 161]]",
+      "styleAttributes": {},
+      "x": 2600,
+      "y": 1080,
+      "width": 580,
+      "height": 250
+    },
+    {
+      "id": "de66dc888fb9f890",
+      "type": "text",
+      "text": "**A 3D displacement has a North, East and Up component, but is projected to a single slant-range component in the radar line-of-sight.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=181&annotation=4028R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 181]]",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": 960,
+      "width": 620,
+      "height": 160
+    },
+    {
+      "id": "0b6fae4e7abf2fcb",
+      "type": "text",
+      "text": "**We cannot retrieve the full displacement vector. Using a combination of ascending and descending ingrams, we can at best retrieve two of the three. We could make assumptions to restrict the vector.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=182&annotation=4043R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 182]]",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": 1140,
+      "width": 620,
+      "height": 180
+    },
+    {
+      "id": "0da9a260d46604f7",
+      "type": "text",
+      "text": "**Surface pressure has minimal spatial variation within a typical ingram area (100x100 km) and behaves smoothly. Hydrostatic delay in ingrams is smooth and manifests as a phase trend. It has a limited influence.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=222&annotation=4127R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 222]]",
+      "styleAttributes": {},
+      "x": 3850,
+      "y": 340,
+      "width": 300,
+      "height": 360
+    },
+    {
+      "id": "ddd3700f10c53164",
+      "type": "text",
+      "text": "**Increase in temperature decreases refractivity. Higher temperatures increase propagation velocity. Higher water vapor pressure will decrease velocity.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=223&annotation=4138R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 223]]",
+      "styleAttributes": {},
+      "x": 4180,
+      "y": 820,
+      "width": 460,
+      "height": 220
+    },
+    {
+      "id": "46f152e62680cf27",
+      "type": "text",
+      "text": "**Stratiform clouds and ice clouds do not cause large phase disturbance due to their large extent and small additional delay, but cumulus cause large disturbances as they have a limited horizontal size and large vertical height and water content.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=226&annotation=4181R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 226]]",
+      "styleAttributes": {},
+      "x": 4660,
+      "y": 740,
+      "width": 480,
+      "height": 240
+    },
+    {
+      "id": "4910644f6b58c1c2",
+      "type": "text",
+      "text": " **Sensitivity of the tropospheric refractivity is highest for spatial variation in water vapor content - 4-20 times higher than for temperature variation.**\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=227&annotation=4202R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 227]]",
+      "styleAttributes": {},
+      "x": 5160,
+      "y": -140,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "3aca8c87a8c65c71",
+      "type": "text",
+      "text": "**Increase in ionospheric electron content causes a phase advance, while increase in partial water vapor pressure causes a phase delay.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=232&annotation=4255R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 232]]",
+      "styleAttributes": {},
+      "x": 5160,
+      "y": 60,
+      "width": 520,
+      "height": 180
+    },
+    {
+      "id": "154397ab84314fef",
+      "type": "text",
+      "text": "**To know which of the two SAR images have the occured effect of advance/delay, we can use more than two images.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=232&annotation=4275R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 232]]",
+      "styleAttributes": {},
+      "x": 5160,
+      "y": 280,
+      "width": 680,
+      "height": 140
+    },
+    {
+      "id": "ee93ddacbcef06c2",
+      "type": "text",
+      "text": "**To know which area of the ingram is the reference area with undisturbed phase, we need to use auxilliary data.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=232&annotation=4265R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 232]]",
+      "styleAttributes": {},
+      "x": 5160,
+      "y": 440,
+      "width": 680,
+      "height": 140
+    },
+    {
+      "id": "a32514c2bbf0be35",
+      "type": "text",
+      "text": "**Hydrostatic delay and ionospheric influences can be largerly ignored for C-band radar.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=263&annotation=4308R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 263]]",
+      "styleAttributes": {},
+      "x": 5160,
+      "y": 600,
+      "width": 660,
+      "height": 140
+    }
+  ],
   "edges": [],
   "metadata": {}
 }
