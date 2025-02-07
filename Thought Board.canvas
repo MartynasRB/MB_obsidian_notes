@@ -1,6 +1,16 @@
 {
   "nodes": [
     {
+      "id": "19e91fa467d001b1",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": -1799,
+      "width": 1960,
+      "height": 1670,
+      "label": "InSAR Atmospheric Signal"
+    },
+    {
       "id": "4ee78cc180ef29ad",
       "type": "group",
       "styleAttributes": {},
@@ -9,16 +19,6 @@
       "width": 1660,
       "height": 1474,
       "label": "Curonian Spit deflation hollow/dune dynamics"
-    },
-    {
-      "id": "19e91fa467d001b1",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -2240,
-      "y": -1799,
-      "width": 1440,
-      "height": 1670,
-      "label": "InSAR Atmospheric Signal"
     },
     {
       "id": "1da7d041ad7a735d",
@@ -84,8 +84,8 @@
       "id": "08af61ecdff3c539",
       "type": "group",
       "styleAttributes": {},
-      "x": 40,
-      "y": -1799,
+      "x": 1240,
+      "y": -1798,
       "width": 1000,
       "height": 1125,
       "label": "InSAR Topography"
@@ -114,8 +114,8 @@
       "id": "6d81d25fdf66e68b",
       "type": "group",
       "styleAttributes": {},
-      "x": 1080,
-      "y": -1800,
+      "x": 2280,
+      "y": -1799,
       "width": 920,
       "height": 1120,
       "label": "InSAR Other Sources of Noise"
@@ -154,7 +154,7 @@
       "id": "62052e9ab53c2c76",
       "type": "group",
       "styleAttributes": {},
-      "x": 100,
+      "x": -110,
       "y": -40,
       "width": 940,
       "height": 876,
@@ -234,8 +234,8 @@
       "id": "3d8b6267944c3f7c",
       "type": "group",
       "styleAttributes": {},
-      "x": -720,
-      "y": -1799,
+      "x": 480,
+      "y": -1798,
       "width": 700,
       "height": 495,
       "label": "InSAR Displacement"
@@ -281,34 +281,24 @@
       "label": "InSAR and rainfall"
     },
     {
-      "id": "1e491d8d9e875d9c",
+      "id": "65e3a3ecdb0d24d8",
       "type": "text",
-      "text": "**Crest of the S segment of the ridge near Parnidis-Sklandytojai is completely trampled. Small natural deeflation hollows only survive in the distal slope facing the lagoon.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=425R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
+      "text": "~~Lohman, R. B., & Bürgi, P. M. (2023). Soil moisture effects on InSAR - A correction approach and example from a hyper-arid region. Remote Sensing of Environment, 297, 113766. https://doi.org/10.1016/j.rse.2023.113766~~\n\nMardosienė, D. J. (1988). Dynamics of High Dunes in the Curonian Spit. The Geographical Yearbook, 24, 114–119\n\n~~Y. Kim and J. J. van Zyl, “Comparison of forest estimation techniques using SAR data,” in Proc. IEEE IGARSS Conf., 2001, pp. 1395–1397~~",
       "styleAttributes": {},
-      "x": -9960,
-      "y": 860,
-      "width": 400,
-      "height": 240
+      "x": -9400,
+      "y": -2337,
+      "width": 500,
+      "height": 460
     },
     {
-      "id": "e43c9e25c59f0c79",
+      "id": "817554218bf97c88",
       "type": "text",
-      "text": "**Relief microforms reflecting the intensity of the short-term deflation formed in nearly all investigated hollows in N Juodkrantė-Pervalka.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=435R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
+      "text": "**Absolute elevation within the Nagliai dunes area ranges from 0 to 62 m ASL. W side is lower (~11 m) than the E side (~ 33 m). Windward slope averages 2-7 degrees, while leeward slope averages ~16 degrees. Maximum slope at ~58 degrees.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=5&annotation=197R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 5]]",
       "styleAttributes": {},
       "x": -9960,
-      "y": 1120,
-      "width": 540,
-      "height": 176
-    },
-    {
-      "id": "0b78854c1a616384",
-      "type": "text",
-      "text": "**Deflation hollows most disturbed between Lydumo Cape and Vinkis Dune. Best conditions for deflation were top of the ridge dune intensely affected by W winds.**\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=475R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
-      "styleAttributes": {},
-      "x": -9960,
-      "y": 1320,
-      "width": 540,
-      "height": 160
+      "y": 1500,
+      "width": 560,
+      "height": 200
     },
     {
       "id": "e48ce0a1b23a8052",
@@ -321,66 +311,6 @@
       "height": 180
     },
     {
-      "id": "c8981b0d28ad1650",
-      "type": "text",
-      "text": "**Deflation hollow transformation is affected by three factors: wind direction, hollow position and absolute hollow height.**\n![[Pasted image 20250127094429.png]]\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=4&annotation=230R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 4]]",
-      "styleAttributes": {},
-      "x": -9000,
-      "y": 1060,
-      "width": 620,
-      "height": 520
-    },
-    {
-      "id": "4b424151cc5cab86",
-      "type": "text",
-      "text": "**Pressure of sand on the plastic marl layer causes deformations on the surface of dunes and produces stepwise microterraces (nowadays only south of Nida).**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=3&annotation=219R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 3]]",
-      "styleAttributes": {},
-      "x": -9000,
-      "y": 1600,
-      "width": 640,
-      "height": 180
-    },
-    {
-      "id": "65e3a3ecdb0d24d8",
-      "type": "text",
-      "text": "~~Lohman, R. B., & Bürgi, P. M. (2023). Soil moisture effects on InSAR - A correction approach and example from a hyper-arid region. Remote Sensing of Environment, 297, 113766. https://doi.org/10.1016/j.rse.2023.113766~~\n\nMardosienė, D. J. (1988). Dynamics of High Dunes in the Curonian Spit. The Geographical Yearbook, 24, 114–119\n\n~~Y. Kim and J. J. van Zyl, “Comparison of forest estimation techniques using SAR data,” in Proc. IEEE IGARSS Conf., 2001, pp. 1395–1397~~",
-      "styleAttributes": {},
-      "x": -9400,
-      "y": -2337,
-      "width": 500,
-      "height": 460
-    },
-    {
-      "id": "1f3a1eb6cd733ba3",
-      "type": "text",
-      "text": "**Summer and autumn months are more active.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=10&annotation=461R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 10]]",
-      "styleAttributes": {},
-      "x": -9420,
-      "y": 1036,
-      "width": 400,
-      "height": 200
-    },
-    {
-      "id": "8315e3cbe4bf0044",
-      "type": "text",
-      "text": "**Curonian Spit formation began 8-6 thousand years ago, and then it further developed during the post-Littorina period.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=1&annotation=137R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 1]]",
-      "styleAttributes": {},
-      "x": -10800,
-      "y": 1640,
-      "width": 680,
-      "height": 140
-    },
-    {
-      "id": "04a90db4726b492e",
-      "type": "text",
-      "text": "**Southward transportation of sand formed a shallow littoral zone on the SE coast, where sand was drifted against glacigenic hills and onto emerged shallows of marine origin.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=2&annotation=158R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 2]]",
-      "styleAttributes": {},
-      "x": -10800,
-      "y": 1800,
-      "width": 740,
-      "height": 160
-    },
-    {
       "id": "7122572743abfee7",
       "type": "text",
       "text": "**Hollows such as those near Parnidis are intensely affected by S-SE winds prevailing in spring and winter.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=445R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
@@ -391,54 +321,14 @@
       "height": 140
     },
     {
-      "id": "250c73de32c290bd",
+      "id": "1e491d8d9e875d9c",
       "type": "text",
-      "text": "**In 1910-1965, GDR drift slowed down due to reforestation. Two active segments remained: Juodkrantė-Pervalka and south of Nida.**\n\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=2&annotation=120R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 2]]",
-      "styleAttributes": {},
-      "x": -10800,
-      "y": 1036,
-      "width": 360,
-      "height": 240
-    },
-    {
-      "id": "c55fa2c1977d1471",
-      "type": "text",
-      "text": "**Before the third stage of Littorina transgression, water levels rose and Semba Peninsula eroded and the sediments were transported north. The following phases occured:**\n1. **Spit began forming near Šarkuva.**\n2. **The spit reached Rasytė Island and connected.**\n3. **4-4.5 ky ago, the spit extended up to Juodkrantė.**\n4. **2 ky ago, the spit reached the continental coast.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=2&annotation=168R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 2]]",
-      "styleAttributes": {},
-      "x": -10800,
-      "y": 1980,
-      "width": 780,
-      "height": 260
-    },
-    {
-      "id": "4b4f7e941e5bf706",
-      "type": "text",
-      "text": "**Since the 16th century, 14 villages were buried under sand.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=2&annotation=178R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 2]]",
-      "styleAttributes": {},
-      "x": -10800,
-      "y": 2260,
-      "width": 780,
-      "height": 100
-    },
-    {
-      "id": "e7dd9f8fbfc679f8",
-      "type": "text",
-      "text": "**Dynamic evolution stages of the Great Dune Ridge in the last 150 years:**\n1. **First half of 19th century - dunes shifted eastward by 8.5 m/y.**\n2. **1900s - 1950s - average dune shifting speed at 2.3 m/y.**\n3. **1960s - 2000s - dune shifting speed at 0.9 m/y due to reforestation. After foresting the sand plain, sand import from the sea was lost. Dune shifting is expending existing sand resources from the ridge. Current dune shifting eastward causes the subsidence of the dune ridge.**\n\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=6&annotation=251R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 6]]",
-      "styleAttributes": {},
-      "x": -10800,
-      "y": 1296,
-      "width": 620,
-      "height": 324
-    },
-    {
-      "id": "817554218bf97c88",
-      "type": "text",
-      "text": "**Absolute elevation within the Nagliai dunes area ranges from 0 to 62 m ASL. W side is lower (~11 m) than the E side (~ 33 m). Windward slope averages 2-7 degrees, while leeward slope averages ~16 degrees. Maximum slope at ~58 degrees.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=5&annotation=197R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 5]]",
+      "text": "**Crest of the S segment of the ridge near Parnidis-Sklandytojai is completely trampled. Small natural deeflation hollows only survive in the distal slope facing the lagoon.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=425R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
       "styleAttributes": {},
       "x": -9960,
-      "y": 1500,
-      "width": 560,
-      "height": 200
+      "y": 860,
+      "width": 400,
+      "height": 240
     },
     {
       "id": "a1591001958d616c",
@@ -461,24 +351,34 @@
       "height": 180
     },
     {
-      "id": "e84b57321a4957f6",
+      "id": "4b424151cc5cab86",
       "type": "text",
-      "text": "**In the 19th century, sand movement speed at certain sections of the GDR reached 13 m/year**\n\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=2&annotation=110R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 2]]",
+      "text": "**Pressure of sand on the plastic marl layer causes deformations on the surface of dunes and produces stepwise microterraces (nowadays only south of Nida).**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=3&annotation=219R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 3]]",
       "styleAttributes": {},
-      "x": -10420,
-      "y": 1036,
-      "width": 400,
+      "x": -9000,
+      "y": 1600,
+      "width": 640,
       "height": 180
     },
     {
-      "id": "4238e178979d674b",
+      "id": "0b78854c1a616384",
       "type": "text",
-      "text": "**Mass tourism after 1990 increased stress to the GDR.**\n\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=2&annotation=130R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 2]]",
+      "text": "**Deflation hollows most disturbed between Lydumo Cape and Vinkis Dune. Best conditions for deflation were top of the ridge dune intensely affected by W winds.**\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=475R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
       "styleAttributes": {},
-      "x": -10380,
-      "y": 856,
-      "width": 380,
+      "x": -9960,
+      "y": 1320,
+      "width": 540,
       "height": 160
+    },
+    {
+      "id": "c8981b0d28ad1650",
+      "type": "text",
+      "text": "**Deflation hollow transformation is affected by three factors: wind direction, hollow position and absolute hollow height.**\n![[Pasted image 20250127094429.png]]\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=4&annotation=230R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 4]]",
+      "styleAttributes": {},
+      "x": -9000,
+      "y": 1060,
+      "width": 620,
+      "height": 520
     },
     {
       "id": "dad54f43212c1bba",
@@ -501,14 +401,84 @@
       "height": 100
     },
     {
-      "id": "bf11981e8c732fbd",
+      "id": "c55fa2c1977d1471",
       "type": "text",
-      "text": "**Specific climate with mild and often snowless winters, frequent strong winds and storms, and prolonged periods of above-zero temperatures.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=6&annotation=240R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 6]]",
+      "text": "**Before the third stage of Littorina transgression, water levels rose and Semba Peninsula eroded and the sediments were transported north. The following phases occured:**\n1. **Spit began forming near Šarkuva.**\n2. **The spit reached Rasytė Island and connected.**\n3. **4-4.5 ky ago, the spit extended up to Juodkrantė.**\n4. **2 ky ago, the spit reached the continental coast.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=2&annotation=168R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 2]]",
       "styleAttributes": {},
-      "x": -11500,
-      "y": 860,
+      "x": -10800,
+      "y": 1980,
+      "width": 780,
+      "height": 260
+    },
+    {
+      "id": "1f3a1eb6cd733ba3",
+      "type": "text",
+      "text": "**Summer and autumn months are more active.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=10&annotation=461R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 10]]",
+      "styleAttributes": {},
+      "x": -9420,
+      "y": 1036,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "e43c9e25c59f0c79",
+      "type": "text",
+      "text": "**Relief microforms reflecting the intensity of the short-term deflation formed in nearly all investigated hollows in N Juodkrantė-Pervalka.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=435R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
+      "styleAttributes": {},
+      "x": -9960,
+      "y": 1120,
+      "width": 540,
+      "height": 176
+    },
+    {
+      "id": "e7dd9f8fbfc679f8",
+      "type": "text",
+      "text": "**Dynamic evolution stages of the Great Dune Ridge in the last 150 years:**\n1. **First half of 19th century - dunes shifted eastward by 8.5 m/y.**\n2. **1900s - 1950s - average dune shifting speed at 2.3 m/y.**\n3. **1960s - 2000s - dune shifting speed at 0.9 m/y due to reforestation. After foresting the sand plain, sand import from the sea was lost. Dune shifting is expending existing sand resources from the ridge. Current dune shifting eastward causes the subsidence of the dune ridge.**\n\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=6&annotation=251R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 6]]",
+      "styleAttributes": {},
+      "x": -10800,
+      "y": 1296,
       "width": 620,
-      "height": 156
+      "height": 324
+    },
+    {
+      "id": "4b4f7e941e5bf706",
+      "type": "text",
+      "text": "**Since the 16th century, 14 villages were buried under sand.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=2&annotation=178R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 2]]",
+      "styleAttributes": {},
+      "x": -10800,
+      "y": 2260,
+      "width": 780,
+      "height": 100
+    },
+    {
+      "id": "250c73de32c290bd",
+      "type": "text",
+      "text": "**In 1910-1965, GDR drift slowed down due to reforestation. Two active segments remained: Juodkrantė-Pervalka and south of Nida.**\n\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=2&annotation=120R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 2]]",
+      "styleAttributes": {},
+      "x": -10800,
+      "y": 1036,
+      "width": 360,
+      "height": 240
+    },
+    {
+      "id": "8315e3cbe4bf0044",
+      "type": "text",
+      "text": "**Curonian Spit formation began 8-6 thousand years ago, and then it further developed during the post-Littorina period.**\n\n[[Bitinas 2004 Littorina Sea at LT Maritime Region.pdf#page=5&selection=57,0,75,51|Bitinas 2004 Littorina Sea at LT Maritime Region, page 5]]",
+      "styleAttributes": {},
+      "x": -10800,
+      "y": 1640,
+      "width": 680,
+      "height": 140
+    },
+    {
+      "id": "04a90db4726b492e",
+      "type": "text",
+      "text": "**Southward transportation of sand formed a shallow littoral zone on the SE coast, where sand was drifted against glacigenic hills and onto emerged shallows of marine origin.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=2&annotation=158R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 2]]",
+      "styleAttributes": {},
+      "x": -10800,
+      "y": 1800,
+      "width": 740,
+      "height": 160
     },
     {
       "id": "ba275d61865352d5",
@@ -519,6 +489,36 @@
       "y": 856,
       "width": 380,
       "height": 160
+    },
+    {
+      "id": "e84b57321a4957f6",
+      "type": "text",
+      "text": "**In the 19th century, sand movement speed at certain sections of the GDR reached 13 m/year**\n\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=2&annotation=110R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 2]]",
+      "styleAttributes": {},
+      "x": -10420,
+      "y": 1036,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "4238e178979d674b",
+      "type": "text",
+      "text": "**Mass tourism after 1990 increased stress to the GDR.**\n\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=2&annotation=130R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 2]]",
+      "styleAttributes": {},
+      "x": -10380,
+      "y": 856,
+      "width": 380,
+      "height": 160
+    },
+    {
+      "id": "bf11981e8c732fbd",
+      "type": "text",
+      "text": "**Specific climate with mild and often snowless winters, frequent strong winds and storms, and prolonged periods of above-zero temperatures.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=6&annotation=240R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 6]]",
+      "styleAttributes": {},
+      "x": -11500,
+      "y": 860,
+      "width": 620,
+      "height": 156
     },
     {
       "id": "ddc17a9089a1ac6c",
@@ -551,6 +551,126 @@
       "height": 180
     },
     {
+      "id": "d00a3738e6c9b333",
+      "type": "text",
+      "text": "**Somewhat general signal reception workflow:**\n1. **Signal echo is received by the antenna.**\n2. **Routing via the waveguide through the circulator assembly.**\n3. **Amplification in a low-noise amplifier.**\n4. **Mixing with the local oscillator signal to provide a down-converted signal at an intermediate frequency.**\n5. **The sample of the transmitted waveform is also down-converted (this is the replica).**\n6. **The signals are routed through a pulse compressor.**\n7. **Convertion in the A/D converted to the real (in-phase) and imaginary (quadrature) parts.**\n8. **The bit-stored digital signal is downlinked.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=42&annotation=3120R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 42]]\n",
+      "styleAttributes": {},
+      "x": -6520,
+      "y": -2357,
+      "width": 600,
+      "height": 440
+    },
+    {
+      "id": "766073ff19f5d0d3",
+      "type": "text",
+      "text": "**One cannot reduce antenna size infinitely because we trade off the size with the maximum attainable signal-to-noise ratio.**\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=44&annotation=3131R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 44]]",
+      "styleAttributes": {},
+      "x": -5900,
+      "y": -2357,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "bcd028f8a09e2343",
+      "type": "text",
+      "text": "**For an effective baseline larger than zero, topographic signal is always mixed in with deformation, so *differential* interferometry is needed.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=34&annotation=3056R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001)(en)(308s) - libgen.li, page 34]]",
+      "styleAttributes": {},
+      "x": -3340,
+      "y": -2194,
+      "width": 360,
+      "height": 240
+    },
+    {
+      "id": "3caf9bca87695533",
+      "type": "text",
+      "text": "***Effective/perpendicular baseline* - the effective distance between two sensors measured perpendicular to the look direction.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=54&annotation=3319R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 54]]",
+      "styleAttributes": {},
+      "x": -2960,
+      "y": -2194,
+      "width": 460,
+      "height": 180
+    },
+    {
+      "id": "a02a45f2448b7f41",
+      "type": "text",
+      "text": "***Coherent imaging* - scattering phase is unpredictable but deterministic, i.e. if the same measurement would be repeated under exactly the same conditions, it would yield the same phase.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=54&annotation=3329R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 54]]",
+      "styleAttributes": {},
+      "x": -2940,
+      "y": -1994,
+      "width": 500,
+      "height": 200
+    },
+    {
+      "id": "f1aa8a6510b86f33",
+      "type": "text",
+      "text": "**The phase observation for a single resolution cell can be regarded as the sum of the phase proportional to the distance and the phase due to scattering characteristics of the cell (disregarding atmopsheric delay).**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=54&annotation=3329R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 54]]",
+      "styleAttributes": {},
+      "x": -3340,
+      "y": -1714,
+      "width": 520,
+      "height": 200
+    },
+    {
+      "id": "967f2757454d8b24",
+      "type": "text",
+      "text": "**A complex interferogram is constructed by a pointwise complex multiplication of corresponding pixels in both datasets.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=70&annotation=3435R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 70]]",
+      "styleAttributes": {},
+      "x": -2800,
+      "y": -1774,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "b38eb8482a9e6978",
+      "type": "text",
+      "text": "**The chirp is weighted with a filter to reduce sidelobe effects, zero-padded and Fourier transformed. The replica is also zero-padded and transformed, and multiplied with the RRF.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=48&annotation=3164R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 48]]",
+      "styleAttributes": {},
+      "x": -5900,
+      "y": -2157,
+      "width": 400,
+      "height": 260
+    },
+    {
+      "id": "34e62da79ec8766f",
+      "type": "text",
+      "text": "**In coherent radars, the phase of the transmitted signal is retained and used as a reference against which the returned signal can be compared.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=41&annotation=3099R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 41]]",
+      "styleAttributes": {},
+      "x": -6520,
+      "y": -1897,
+      "width": 380,
+      "height": 240
+    },
+    {
+      "id": "0b10bccaebe2f54b",
+      "type": "text",
+      "text": "**The center frequency of the passage of a point scatterer through the antenna beam is the *Doppler centroid frequency.***\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=49&annotation=3195R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 49]]",
+      "styleAttributes": {},
+      "x": -6060,
+      "y": -1837,
+      "width": 420,
+      "height": 200
+    },
+    {
+      "id": "48801767a15b18e1",
+      "type": "text",
+      "text": "**Range compression is done by matched filtering (convolution) of a reference chirp with the received pulse. Azimuth compression is done by convolution of the predicted Doppler-rate (phase history) of a scatterer with the received signal.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=51&annotation=3257R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 51]]",
+      "styleAttributes": {},
+      "x": -5355,
+      "y": -3040,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "cfcbc95c0c76a457",
+      "type": "text",
+      "text": "***Resolution* - the minimum distance at which two distinct scatterers with the same brightness can be uniquely discerned as separate signals.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=52&annotation=3278R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 52]]",
+      "styleAttributes": {},
+      "x": -5355,
+      "y": -2780,
+      "width": 440,
+      "height": 200
+    },
+    {
       "id": "59039163a438f8d3",
       "type": "text",
       "text": "**Radar Vegetation Index is a little bit elaborated in here:**\n[[Arii-2010-General-Characterisation-for-Pol-Scat-from-Veg-Canopies.pdf#page=4&selection=59,0,66,25|Arii-2010-General-Characterisation-for-Pol-Scat-from-Veg-Canopies, page 4]]\n\n**However, authors claim that it was introduced here:**\n\nKim and van Zyl [12]: Y. Kim and J. J. van Zyl, “Comparison of forest estimation techniques using SAR data,” in Proc. IEEE IGARSS Conf., 2001, pp. 1395–1397\n",
@@ -581,24 +701,54 @@
       "height": 240
     },
     {
-      "id": "48801767a15b18e1",
+      "id": "960a68bbae1a5099",
       "type": "text",
-      "text": "**Range compression is done by matched filtering (convolution) of a reference chirp with the received pulse. Azimuth compression is done by convolution of the predicted Doppler-rate (phase history) of a scatterer with the received signal.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=51&annotation=3257R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 51]]",
+      "text": "**Permanent strong win causes fast sand drying and intensified deflation. After one hour after rain, the surface sand layer is ~50% drier compared to sand at 10cm depth.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=9&annotation=353R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 9]]",
       "styleAttributes": {},
-      "x": -5355,
-      "y": -3040,
-      "width": 460,
-      "height": 240
+      "x": -6140,
+      "y": 860,
+      "width": 640,
+      "height": 180
     },
     {
-      "id": "cfcbc95c0c76a457",
+      "id": "053652bc49605590",
       "type": "text",
-      "text": "***Resolution* - the minimum distance at which two distinct scatterers with the same brightness can be uniquely discerned as separate signals.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=52&annotation=3278R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 52]]",
+      "text": "**In the Juodkrantė-Pervalka segment, most intensive deflation processes took place in hollows located in the leeward E slopes of the ridge. Crest was blown out less and windward W slope suffered the least degree of deflation.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=485R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
       "styleAttributes": {},
-      "x": -5355,
-      "y": -2780,
-      "width": 440,
-      "height": 200
+      "x": -6140,
+      "y": 1060,
+      "width": 520,
+      "height": 216
+    },
+    {
+      "id": "ea89e4fa297fa998",
+      "type": "text",
+      "text": "**Hollows with W-E deflation passages suffered fastest transformation into deflation gullies.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=495R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
+      "styleAttributes": {},
+      "x": -6140,
+      "y": 1300,
+      "width": 620,
+      "height": 148
+    },
+    {
+      "id": "3f06da89ca42c4a9",
+      "type": "text",
+      "text": "**Deflation processes in N CS mostly affected by frequent storng SW-W-NW winds of max spd 18-26 m/s. In the middle, mostly due to E-SE-S winds of max spd 16-22 m/s. **\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=13&annotation=557R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 13]]",
+      "styleAttributes": {},
+      "x": -6140,
+      "y": 1460,
+      "width": 660,
+      "height": 180
+    },
+    {
+      "id": "6e752d2a2a7c87ed",
+      "type": "text",
+      "text": "**First d-InSAR use was vertical motion detection caused by soil swelling of irrigated fields (cited in link)**\n\n[[Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation.pdf#page=3&annotation=458R|Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation, page 3]]",
+      "styleAttributes": {},
+      "x": -3340,
+      "y": -3165,
+      "width": 460,
+      "height": 180
     },
     {
       "id": "11cdcd50d3c38ae0",
@@ -621,86 +771,6 @@
       "height": 195
     },
     {
-      "id": "774a3655addecc33",
-      "type": "text",
-      "text": "**For point scatterers, the amplitude behavior is an indication of phase variance.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=115&annotation=3683R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 115]]",
-      "styleAttributes": {},
-      "x": -6520,
-      "y": -1057,
-      "width": 480,
-      "height": 140
-    },
-    {
-      "id": "439660acbfa55c27",
-      "type": "text",
-      "text": "**PDF of the phase has a uniform distribution, but the phase of the complex product of two circular Gaussian signals is not, as long as the two signals have some correlation.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=110&annotation=3644R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 110]]",
-      "styleAttributes": {},
-      "x": -6520,
-      "y": -907,
-      "width": 480,
-      "height": 200
-    },
-    {
-      "id": "ed766d10271086a0",
-      "type": "text",
-      "text": "***Multilooking* can be applied in the range-Doppler domain by segmenting the Doppler spectrum in a number of subsets (*looks*) and summing these looks.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=51&annotation=3267R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 51]]",
-      "styleAttributes": {},
-      "x": -6520,
-      "y": -1277,
-      "width": 480,
-      "height": 210
-    },
-    {
-      "id": "ccb03c14ab2b3e95",
-      "type": "text",
-      "text": "**The variation of the Doppler frequency during the passage of the scatterer through the beam is expressed by the *Doppler bandwidth*.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=49&annotation=3205R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 49]]",
-      "styleAttributes": {},
-      "x": -6520,
-      "y": -1477,
-      "width": 440,
-      "height": 180
-    },
-    {
-      "id": "a6cfc1cef8064e5a",
-      "type": "text",
-      "text": "**If the size of the resolution cell is many times larger than the radar wavelength, many scatterers contribute to the response for one resolution cell. We cannot determine individual responses within a resolution cell like that. This is the *speckle*.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=108&annotation=3613R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 108]]",
-      "styleAttributes": {},
-      "x": -6000,
-      "y": -942,
-      "width": 480,
-      "height": 235
-    },
-    {
-      "id": "556481f5bf80c490",
-      "type": "text",
-      "text": "**Single scatterers appear shifted in different range bins in consecutive pulses. This is *range migration*.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=51&annotation=3247R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 51]]",
-      "styleAttributes": {},
-      "x": -6060,
-      "y": -1622,
-      "width": 440,
-      "height": 180
-    },
-    {
-      "id": "271454c28314d045",
-      "type": "text",
-      "text": "***Speckle* - pixel intensity variation for a distributed scene, expressed by the exponential probability density function.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=110&annotation=3634R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 110]]\n",
-      "styleAttributes": {},
-      "x": -6000,
-      "y": -1212,
-      "width": 380,
-      "height": 250
-    },
-    {
-      "id": "a9e4ab6110789b52",
-      "type": "text",
-      "text": "**Scatterers that have a velocity component in the direction of the radar appear displaced in the focused image.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=50&annotation=3236R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 50]]",
-      "styleAttributes": {},
-      "x": -6000,
-      "y": -1417,
-      "width": 440,
-      "height": 180
-    },
-    {
       "id": "a64993ee76167fdf",
       "type": "text",
       "text": "**In azimuth, the footprint is determined by the wavelength, antenna length and distance, while in range, the footprint is determined by the time interval of the pulse return registration.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=45&annotation=3142R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 45]]",
@@ -721,266 +791,6 @@
       "height": 200
     },
     {
-      "id": "05316bfed7c6ba16",
-      "type": "text",
-      "text": "**3 days after 11 mm/rain, soil moisture in Albeluvisols reaches only 3%. Albeluvisols become vulnerable to sand blow once critical wind speed of 6 m/s is reached.**\n\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=3&annotation=151R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 3]]\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=13&annotation=557R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 13]]",
-      "styleAttributes": {},
-      "x": -7500,
-      "y": 856,
-      "width": 400,
-      "height": 220
-    },
-    {
-      "id": "3f0f09a5401a2011",
-      "type": "text",
-      "text": "**The *zero-Doppler* is the direction in which the Doppler frequency equals to zero.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=49&annotation=3185R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 49]]",
-      "styleAttributes": {},
-      "x": -6520,
-      "y": -1647,
-      "width": 440,
-      "height": 160
-    },
-    {
-      "id": "0b10bccaebe2f54b",
-      "type": "text",
-      "text": "**The center frequency of the passage of a point scatterer through the antenna beam is the *Doppler centroid frequency.***\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=49&annotation=3195R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 49]]",
-      "styleAttributes": {},
-      "x": -6060,
-      "y": -1837,
-      "width": 420,
-      "height": 200
-    },
-    {
-      "id": "d00a3738e6c9b333",
-      "type": "text",
-      "text": "**Somewhat general signal reception workflow:**\n1. **Signal echo is received by the antenna.**\n2. **Routing via the waveguide through the circulator assembly.**\n3. **Amplification in a low-noise amplifier.**\n4. **Mixing with the local oscillator signal to provide a down-converted signal at an intermediate frequency.**\n5. **The sample of the transmitted waveform is also down-converted (this is the replica).**\n6. **The signals are routed through a pulse compressor.**\n7. **Convertion in the A/D converted to the real (in-phase) and imaginary (quadrature) parts.**\n8. **The bit-stored digital signal is downlinked.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=42&annotation=3120R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 42]]\n",
-      "styleAttributes": {},
-      "x": -6520,
-      "y": -2357,
-      "width": 600,
-      "height": 440
-    },
-    {
-      "id": "34e62da79ec8766f",
-      "type": "text",
-      "text": "**In coherent radars, the phase of the transmitted signal is retained and used as a reference against which the returned signal can be compared.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=41&annotation=3099R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 41]]",
-      "styleAttributes": {},
-      "x": -6520,
-      "y": -1897,
-      "width": 380,
-      "height": 240
-    },
-    {
-      "id": "766073ff19f5d0d3",
-      "type": "text",
-      "text": "**One cannot reduce antenna size infinitely because we trade off the size with the maximum attainable signal-to-noise ratio.**\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=44&annotation=3131R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 44]]",
-      "styleAttributes": {},
-      "x": -5900,
-      "y": -2357,
-      "width": 400,
-      "height": 180
-    },
-    {
-      "id": "b38eb8482a9e6978",
-      "type": "text",
-      "text": "**The chirp is weighted with a filter to reduce sidelobe effects, zero-padded and Fourier transformed. The replica is also zero-padded and transformed, and multiplied with the RRF.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=48&annotation=3164R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 48]]",
-      "styleAttributes": {},
-      "x": -5900,
-      "y": -2157,
-      "width": 400,
-      "height": 260
-    },
-    {
-      "id": "781c6a44ad2a6e63",
-      "type": "text",
-      "text": "**Repeating orbit configuration leads to a rhomboid pattern in the ground footprint, resulting areas of high observation frequency next to areas of low observation frequency.**\n\n[[Bauer-Marschallinger_2018_Toward_Global_Soil_Moisture_Monitoring_S1.pdf#page=4&annotation=280R|Bauer-Marschallinger_2018_Toward_Global_Soil_Moisture_Monitoring_S1, page 4]]",
-      "styleAttributes": {},
-      "x": -6520,
-      "y": -680,
-      "width": 460,
-      "height": 240
-    },
-    {
-      "id": "59d302301c3199aa",
-      "type": "text",
-      "text": "**Marl squeeze increased the height of the foot of the terrace slope by 42 cm (8.4 cm)**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=12&annotation=516R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 12]]",
-      "styleAttributes": {},
-      "x": -4560,
-      "y": 1180,
-      "width": 520,
-      "height": 140
-    },
-    {
-      "id": "6e44fb59d99e106c",
-      "type": "text",
-      "text": "**Positive elevation changes concentrated on the E side of blowouts. Largest elevation losses were on the stoss slope of deposition lobes, usually concentrated on the W side of the blowout.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=6&annotation=228R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 6]]",
-      "styleAttributes": {},
-      "x": -4560,
-      "y": 1340,
-      "width": 560,
-      "height": 200
-    },
-    {
-      "id": "5e87e4491f8d14cc",
-      "type": "text",
-      "text": "**During 2018-2019, max elevation loss was up to -3.29 m, while gain was +5.31 m**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=6&annotation=238R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 6]]",
-      "styleAttributes": {},
-      "x": -4560,
-      "y": 1550,
-      "width": 560,
-      "height": 140
-    },
-    {
-      "id": "eff2165efcc7c4c6",
-      "type": "text",
-      "text": "**Precipitation slows down the efficiency of wind deflation by 20-30%.**\n\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=3&annotation=151R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 3]]\n",
-      "styleAttributes": {},
-      "x": -7500,
-      "y": 1100,
-      "width": 380,
-      "height": 140
-    },
-    {
-      "id": "6a14cee1da29a835",
-      "type": "text",
-      "text": "**Sharp changes in micro-terraces of E slopes were related with the amount of precipitation exceeding average.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=12&annotation=536R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 12]]",
-      "styleAttributes": {},
-      "x": -7500,
-      "y": 1420,
-      "width": 520,
-      "height": 140
-    },
-    {
-      "id": "9a53c5d6dfb5c700",
-      "type": "text",
-      "text": "**At a nature trail, sand moisture sometimes inverses (drier below) because of human trampling.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=10&annotation=384R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 10]]",
-      "styleAttributes": {},
-      "x": -7500,
-      "y": 1260,
-      "width": 500,
-      "height": 134
-    },
-    {
-      "id": "cd492c1baa91f823",
-      "type": "text",
-      "text": "**Groundwater table is 1-2 m deep at the base of the western slope, much deeper within the ridge, possibily relating to vegetation dominance on the westernmost low areas.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=9&annotation=421R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 9]]",
-      "styleAttributes": {},
-      "x": -7500,
-      "y": 1590,
-      "width": 520,
-      "height": 200
-    },
-    {
-      "id": "ef4481aa82972b03",
-      "type": "text",
-      "text": "**Long-term elevation changes appear to be more widespread throughout the bare-sand surface class. Maximum decrease could reach -15.2 m, and increase could be up to +15.63 m**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=6&annotation=258R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 6]]",
-      "styleAttributes": {},
-      "x": -4560,
-      "y": 1720,
-      "width": 560,
-      "height": 180
-    },
-    {
-      "id": "b0e128c498b1012c",
-      "type": "text",
-      "text": "**Areas farther away from the edge of the bare-sand surface class predominantly experienced larger elevation changes.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=6&annotation=278R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 6]]",
-      "styleAttributes": {},
-      "x": -4000,
-      "y": 860,
-      "width": 560,
-      "height": 147
-    },
-    {
-      "id": "0d19e83f9f189d2d",
-      "type": "text",
-      "text": "**Locations lying at higher altitudes than their surroundings are more likely to decrease in height, while those at lower than the surroundings are expected to increase in height.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=7&annotation=299R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 7]]",
-      "styleAttributes": {},
-      "x": -4000,
-      "y": 1020,
-      "width": 520,
-      "height": 180
-    },
-    {
-      "id": "558bfd0cce3d4602",
-      "type": "text",
-      "text": "**S-SE winds in summers of 2004-2016 changed the form and depth of deflation hollows, up to 5-20 cm/day.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=445R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
-      "styleAttributes": {},
-      "x": -4560,
-      "y": 860,
-      "width": 540,
-      "height": 140
-    },
-    {
-      "id": "5d375cc5e27b0871",
-      "type": "text",
-      "text": "**Between Apr - Sep 2016, \"marl\" terrace ledges declined in height by 5-64 cm (1-12.8 cm/month)**\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=12&annotation=506R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 12]]\n\n",
-      "styleAttributes": {},
-      "x": -4560,
-      "y": 1020,
-      "width": 540,
-      "height": 140
-    },
-    {
-      "id": "290f2ebd0179751b",
-      "type": "text",
-      "text": "**Closer to the shoreline areas experienced more elevation change. This could be due to more overgrown surfaces on W side, or due to sand plain forests which cut off sand transport and protect the lower W section of the ridge from dominant W winds.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=7&annotation=299R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 7]]",
-      "styleAttributes": {},
-      "x": -5400,
-      "y": 860,
-      "width": 560,
-      "height": 240
-    },
-    {
-      "id": "0460ace88a836fbc",
-      "type": "text",
-      "text": "**Vegetation cover reduces momentum of wind and lowers erosional power, covers sediments and protects the surface. It also traps sand particles.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=8&annotation=330R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 8]]",
-      "styleAttributes": {},
-      "x": -5400,
-      "y": 1116,
-      "width": 520,
-      "height": 180
-    },
-    {
-      "id": "237e8f21fcfa4f7f",
-      "type": "text",
-      "text": "**Dune elevation is decreasing in height by ~2cm/yr, in some places by +-1.3 m/yr. Negative balance is linked to lack of sediment supply from outside the system.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=10&annotation=491R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 10]]",
-      "styleAttributes": {},
-      "x": -3980,
-      "y": 1227,
-      "width": 480,
-      "height": 200
-    },
-    {
-      "id": "f77b594906cb0542",
-      "type": "text",
-      "text": "***Surface soil moisture* - water content of the top layer of soil.**\n\n[[Bauer-Marschallinger_2018_Toward_Global_Soil_Moisture_Monitoring_S1.pdf#page=2&annotation=259R|Bauer-Marschallinger_2018_Toward_Global_Soil_Moisture_Monitoring_S1, page 2]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 1081,
-      "width": 480,
-      "height": 180
-    },
-    {
-      "id": "960a68bbae1a5099",
-      "type": "text",
-      "text": "**Permanent strong win causes fast sand drying and intensified deflation. After one hour after rain, the surface sand layer is ~50% drier compared to sand at 10cm depth.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=9&annotation=353R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 9]]",
-      "styleAttributes": {},
-      "x": -6140,
-      "y": 860,
-      "width": 640,
-      "height": 180
-    },
-    {
-      "id": "053652bc49605590",
-      "type": "text",
-      "text": "**In the Juodkrantė-Pervalka segment, most intensive deflation processes took place in hollows located in the leeward E slopes of the ridge. Crest was blown out less and windward W slope suffered the least degree of deflation.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=485R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
-      "styleAttributes": {},
-      "x": -6140,
-      "y": 1060,
-      "width": 520,
-      "height": 216
-    },
-    {
       "id": "241c45caa1eb49ec",
       "type": "text",
       "text": "**In the cold season, processes are very slow, occur only with storm winds.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=6&annotation=250R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 6]]",
@@ -988,26 +798,6 @@
       "x": -6920,
       "y": 860,
       "width": 380,
-      "height": 180
-    },
-    {
-      "id": "ea89e4fa297fa998",
-      "type": "text",
-      "text": "**Hollows with W-E deflation passages suffered fastest transformation into deflation gullies.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=495R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
-      "styleAttributes": {},
-      "x": -6140,
-      "y": 1300,
-      "width": 620,
-      "height": 148
-    },
-    {
-      "id": "3f06da89ca42c4a9",
-      "type": "text",
-      "text": "**Deflation processes in N CS mostly affected by frequent storng SW-W-NW winds of max spd 18-26 m/s. In the middle, mostly due to E-SE-S winds of max spd 16-22 m/s. **\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=13&annotation=557R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 13]]",
-      "styleAttributes": {},
-      "x": -6140,
-      "y": 1460,
-      "width": 660,
       "height": 180
     },
     {
@@ -1039,6 +829,56 @@
       "y": 860,
       "width": 320,
       "height": 256
+    },
+    {
+      "id": "05316bfed7c6ba16",
+      "type": "text",
+      "text": "**3 days after 11 mm/rain, soil moisture in Albeluvisols reaches only 3%. Albeluvisols become vulnerable to sand blow once critical wind speed of 6 m/s is reached.**\n\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=3&annotation=151R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 3]]\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=13&annotation=557R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 13]]",
+      "styleAttributes": {},
+      "x": -7500,
+      "y": 856,
+      "width": 400,
+      "height": 220
+    },
+    {
+      "id": "eff2165efcc7c4c6",
+      "type": "text",
+      "text": "**Precipitation slows down the efficiency of wind deflation by 20-30%.**\n\n[[Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS.pdf#page=3&annotation=151R|Cesnulevicius_2006_Dynamics_of_deflation_hollows_of_Main_Ridge_CS, page 3]]\n",
+      "styleAttributes": {},
+      "x": -7500,
+      "y": 1100,
+      "width": 380,
+      "height": 140
+    },
+    {
+      "id": "9a53c5d6dfb5c700",
+      "type": "text",
+      "text": "**At a nature trail, sand moisture sometimes inverses (drier below) because of human trampling.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=10&annotation=384R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 10]]",
+      "styleAttributes": {},
+      "x": -7500,
+      "y": 1260,
+      "width": 500,
+      "height": 134
+    },
+    {
+      "id": "6a14cee1da29a835",
+      "type": "text",
+      "text": "**Sharp changes in micro-terraces of E slopes were related with the amount of precipitation exceeding average.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=12&annotation=536R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 12]]",
+      "styleAttributes": {},
+      "x": -7500,
+      "y": 1420,
+      "width": 520,
+      "height": 140
+    },
+    {
+      "id": "cd492c1baa91f823",
+      "type": "text",
+      "text": "**Groundwater table is 1-2 m deep at the base of the western slope, much deeper within the ridge, possibily relating to vegetation dominance on the westernmost low areas.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=9&annotation=421R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 9]]",
+      "styleAttributes": {},
+      "x": -7500,
+      "y": 1590,
+      "width": 520,
+      "height": 200
     },
     {
       "id": "0f65eabb10873b57",
@@ -1081,73 +921,243 @@
       "height": 400
     },
     {
-      "id": "e3bf24473cf13eb6",
+      "id": "0b6fae4e7abf2fcb",
       "type": "text",
-      "text": "**Even the most stable dune areas of the dune field became unstable and lost coherence over time.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=7&annotation=212R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 7]]",
+      "text": "**We cannot retrieve the full displacement vector. Using a combination of ascending and descending ingrams, we can at best retrieve two of the three. We could make assumptions to restrict the vector.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=182&annotation=4043R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 182]]",
       "styleAttributes": {},
-      "x": -1760,
-      "y": 516,
-      "width": 340,
+      "x": 520,
+      "y": -1763,
+      "width": 620,
+      "height": 180
+    },
+    {
+      "id": "d1adacd7045c39dc",
+      "type": "text",
+      "text": "**Phase disturbances of microwaves travelling between media are caused by the difference in dielectric properties between these media.**\n\n[[Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation.pdf#page=9&annotation=360R|Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation, page 9]]",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": -1519,
+      "width": 560,
+      "height": 180
+    },
+    {
+      "id": "6982c34771538b1b",
+      "type": "text",
+      "text": "**Cited:  using a DEM to extract topographic phase.**\n\n[[Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation.pdf#page=16&annotation=489R|Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation, page 16]]",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": -1783,
+      "width": 380,
+      "height": 180
+    },
+    {
+      "id": "83da741813b79acf",
+      "type": "text",
+      "text": "**Quantization noise: digitization quantizes voltages and introduces a random component. Bitrate can help.**\n\n[[Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation.pdf#page=20&annotation=511R|Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation, page 20]]",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": -1763,
+      "width": 420,
       "height": 220
+    },
+    {
+      "id": "a8a3bd581a9edf74",
+      "type": "text",
+      "text": "**Small changes in permittivities might lead to relatively large phase disturbances.**\n\n[[Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation.pdf#page=6&annotation=330R|Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation, page 6]]",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": -1303,
+      "width": 460,
+      "height": 160
+    },
+    {
+      "id": "de66dc888fb9f890",
+      "type": "text",
+      "text": "**A 3D displacement has a North, East and Up component, but is projected to a single slant-range component in the radar line-of-sight.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=181&annotation=4028R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 181]]",
+      "styleAttributes": {},
+      "x": 520,
+      "y": -1543,
+      "width": 620,
+      "height": 160
+    },
+    {
+      "id": "af475081b718c13a",
+      "type": "text",
+      "text": "**Soil moisture, type and vegetation can cause phase disturbances.**\n\n[[Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation.pdf#page=2&annotation=310R|Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation, page 2]]",
+      "styleAttributes": {},
+      "x": -90,
+      "y": -20,
+      "width": 460,
+      "height": 180
+    },
+    {
+      "id": "f68d43062622f3d2",
+      "type": "text",
+      "text": "**Phase disturbances and amplitude decrease can be high for small values of the real part of the dielectric constant, up to almost 1 cm for C-band in ases where a soil nears dielectric properties of air (slightly wet sand, remnant moisture in grass roots on dry sand etc.)**\n\n[[Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation.pdf#page=2&annotation=310R|Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation, page 2]]",
+      "styleAttributes": {},
+      "x": -90,
+      "y": 200,
+      "width": 520,
+      "height": 260
+    },
+    {
+      "id": "0f2be1c54c1f8d57",
+      "type": "text",
+      "text": "**Types of atmospheric signal:**\n1. **Turbulent mixing - turbulent processes in the atmosphere cause spatial heterogeneity in the refractivity in both acquisitions, affects flat and mountainous terrain.**\n2. **Vertical stratification - different vertical refractivity profiles during the acquisitions, assuming there is no heterogeneity within the horizontal layers. Affects only mountainous terrain, and is correlated with topography.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=150&annotation=3902R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 150]]",
+      "styleAttributes": {},
+      "x": -2200,
+      "y": -1509,
+      "width": 580,
+      "height": 340
+    },
+    {
+      "id": "85110cb1ccde72d0",
+      "type": "text",
+      "text": "**Coherence change detection method limitations:**\n1. **Fuzzy results due to kernel use in formula.**\n2. **Low coherence if perpendicular baseline is high.**\n3. **Coherence decreases with local slope angle.**\n4. **Coherence is low over vegetation.**\n5. **Coherence decreases with increasing soil moisture.**\n6. **The smaller the pixel, the longer coherence can be preserved.**\n7. **Meteorological condition variation decreases coherence.**\n\n[[Closson_2017_InSAR_Coherence_and_Intensity_Changes_Detection.pdf#page=18&annotation=396R|Closson_2017_InSAR_Coherence_and_Intensity_Changes_Detection, page 18]]",
+      "styleAttributes": {},
+      "x": -680,
+      "y": -2360,
+      "width": 520,
+      "height": 400
+    },
+    {
+      "id": "5f8b4cd4fadefdb7",
+      "type": "text",
+      "text": "**Standard deviation of the interferometric phase as a function of coherence:**\n\n![[Pasted image 20250122141229.png]]\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=114&annotation=3673R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 114]]",
+      "styleAttributes": {},
+      "x": -680,
+      "y": -3764,
+      "width": 460,
+      "height": 460
+    },
+    {
+      "id": "c4e530f1bee1024d",
+      "type": "text",
+      "text": "**Systematic phase variation needs to be exlcuded if coherence is used for classifying terrain types derived from the noise level of the data.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=117&annotation=3745R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 117]]",
+      "styleAttributes": {},
+      "x": -680,
+      "y": -2989,
+      "width": 500,
+      "height": 180
+    },
+    {
+      "id": "9e805f1b9a153ae1",
+      "type": "text",
+      "text": " **Complex coherence between two zero-mean circular Gaussian variables:**\n![[Pasted image 20250122141335.png]]\n![[Pasted image 20250122141410.png]]\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=115&annotation=3693R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 115]]",
+      "styleAttributes": {},
+      "x": -680,
+      "y": -3289,
+      "width": 500,
+      "height": 280
+    },
+    {
+      "id": "de8ed74ce0f33772",
+      "type": "text",
+      "text": "**SAR images acquired during night generally have calmer atmospheric conditions. Likewise, cold high-altitude locations have less problems than warm low-altitude locations.**\n\n[[Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation.pdf#page=26&annotation=533R|Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation, page 26]]",
+      "styleAttributes": {},
+      "x": -1650,
+      "y": -387,
+      "width": 460,
+      "height": 200
     },
     {
       "id": "46f152e62680cf27",
       "type": "text",
       "text": "**Stratiform clouds and ice clouds do not cause large phase disturbance due to their large extent and small additional delay, but cumulus cause large disturbances as they have a limited horizontal size and large vertical height and water content.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=226&annotation=4181R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 226]]",
       "styleAttributes": {},
-      "x": -1520,
-      "y": -655,
+      "x": -1650,
+      "y": -640,
       "width": 480,
-      "height": 240
+      "height": 225
+    },
+    {
+      "id": "dfda0fa31eb8c244",
+      "type": "text",
+      "text": "**Atmospheric signal within ingrams is highly variable in time.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=150&annotation=3912R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 150]]",
+      "styleAttributes": {},
+      "x": -1740,
+      "y": -790,
+      "width": 540,
+      "height": 130
     },
     {
       "id": "154397ab84314fef",
       "type": "text",
       "text": "**To know which of the two SAR images have the occured effect of advance/delay, we can use more than two images.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=232&annotation=4275R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 232]]",
       "styleAttributes": {},
-      "x": -1520,
-      "y": -1764,
-      "width": 680,
+      "x": -1610,
+      "y": -1774,
+      "width": 540,
       "height": 140
     },
     {
-      "id": "6f903f84dea6bc50",
+      "id": "d3e47f055b12f68d",
       "type": "text",
-      "text": "**Dunes closer to the sea might have stronger winds and more human activity, and therefore decreased stabilility.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=8&annotation=348R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 8]]",
+      "text": "**Spatial variations of  pressure and temperature are not large enough to cause strong localized phase gradients in ingrams.**\n\n[[Ding_2008_Atmospheric_Effects_On_InSAR_Measurements_and_Mitigation.pdf#page=5&annotation=151R|Ding_2008_Atmospheric_Effects_On_InSAR_Measurements_and_Mitigation, page 5]]",
       "styleAttributes": {},
-      "x": -1760,
-      "y": 240,
-      "width": 340,
-      "height": 240
+      "x": -1040,
+      "y": -1774,
+      "width": 400,
+      "height": 224
     },
     {
-      "id": "7a205cec142dd8e2",
+      "id": "9eecc3a5c69246b7",
       "type": "text",
-      "text": "**InSAR is suitable for identifying mobile sand transport but not dune movement.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=2&annotation=170R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 2]]",
+      "text": "  **Long baselines increases noise (geometric decorrelation) but decreases effect of atmospheric disturbances in the derived DEM.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=37&annotation=3078R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001)(en)(308s) - libgen.li, page 37]]",
       "styleAttributes": {},
-      "x": -1400,
-      "y": 36,
-      "width": 340,
-      "height": 220
+      "x": -1370,
+      "y": -3779,
+      "width": 480,
+      "height": 200
     },
     {
-      "id": "a53516a7da95a769",
+      "id": "cda8ada6691cc9ab",
       "type": "text",
-      "text": "**Crests might have higher stability than windward slopes.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=7&annotation=254R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 7]]",
+      "text": "**Perpendicular baselines indicate sensitivity to topographic height, phase gradient decorrelation amount and phase unwrapping effectiveness. Good perp baselines for topographic mapping range between 100-500 m.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=62&annotation=3371R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 62]]",
       "styleAttributes": {},
-      "x": -1400,
-      "y": 276,
-      "width": 320,
+      "x": -1370,
+      "y": -3549,
+      "width": 540,
+      "height": 210
+    },
+    {
+      "id": "c3dde35035e2abda",
+      "type": "text",
+      "text": "**Sources of decorrelation:**\n1. **Baseline or geometric (surface) decorrelation - difference in incidence angles between acquisitions.**\n2. **Doppler centroid decorrelation - difference in Doppler centroids between acquisitions.**\n3. **Volume decorrelation - penetration of the radar wave in the scattering medium.**\n4. **Thermal/system noise - characteristics of the system, including gain factors and antenna characteristics.**\n5. **Temporal terrain decorrelation - physical changes in the terrain, affecting the scattering characteristics of the surface.**\n6. **Processing decorrelation - insufficient coregistration and interpolation.**\n\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=117&annotation=3775R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 117]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": -3549,
+      "width": 590,
+      "height": 500
+    },
+    {
+      "id": "35ffcdecd81a0710",
+      "type": "text",
+      "text": "**I could define asymmetric masks during coherence calculation to prevent information loss.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=3&annotation=181R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 3]]",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -3783,
+      "width": 380,
       "height": 180
     },
     {
-      "id": "4910644f6b58c1c2",
+      "id": "0d4174758fb99f60",
       "type": "text",
-      "text": " **Sensitivity of the tropospheric refractivity is highest for spatial variation in water vapor content - 4-20 times higher than for temperature variation.**\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=227&annotation=4202R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 227]]",
+      "text": "**For low-coherence areas or with small averaging windows, coherence is overestimated. If phase changes too fast within a window, underestimated.**\n\n[[Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation.pdf#page=19&annotation=500R|Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation, page 19]]",
       "styleAttributes": {},
-      "x": -2200,
-      "y": -790,
-      "width": 440,
+      "x": -680,
+      "y": -2780,
+      "width": 500,
+      "height": 180
+    },
+    {
+      "id": "60f718ef488b361c",
+      "type": "text",
+      "text": "**Coherence has a physical interpretation - it represents the fraction of the power scattered by unchanged parts of the scene.**\n\n[[Closson_2017_InSAR_Coherence_and_Intensity_Changes_Detection.pdf#page=9&annotation=363R|Closson_2017_InSAR_Coherence_and_Intensity_Changes_Detection, page 9]]",
+      "styleAttributes": {},
+      "x": -680,
+      "y": -2580,
+      "width": 520,
       "height": 180
     },
     {
@@ -1161,156 +1171,6 @@
       "height": 200
     },
     {
-      "id": "9eecc3a5c69246b7",
-      "type": "text",
-      "text": "  **Long baselines increases noise (geometric decorrelation) but decreases effect of atmospheric disturbances in the derived DEM.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=37&annotation=3078R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001)(en)(308s) - libgen.li, page 37]]",
-      "styleAttributes": {},
-      "x": -1370,
-      "y": -3779,
-      "width": 480,
-      "height": 200
-    },
-    {
-      "id": "ddd3700f10c53164",
-      "type": "text",
-      "text": "**Increase in temperature decreases refractivity. Higher temperatures increase propagation velocity. Higher water vapor pressure will decrease velocity.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=223&annotation=4138R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 223]]",
-      "styleAttributes": {},
-      "x": -1520,
-      "y": -900,
-      "width": 460,
-      "height": 220
-    },
-    {
-      "id": "dfda0fa31eb8c244",
-      "type": "text",
-      "text": "**Atmospheric signal within ingrams is highly variable in time.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=150&annotation=3912R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 150]]",
-      "styleAttributes": {},
-      "x": -1520,
-      "y": -1054,
-      "width": 540,
-      "height": 130
-    },
-    {
-      "id": "57da3aaadf0172ab",
-      "type": "text",
-      "text": "**Atmospheric signal causes uncertainty. It is not noise immediately since the effects are spatially correlated and significant.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=84&annotation=3540R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 84]]",
-      "styleAttributes": {},
-      "x": -1520,
-      "y": -1259,
-      "width": 440,
-      "height": 180
-    },
-    {
-      "id": "de8ed74ce0f33772",
-      "type": "text",
-      "text": "**SAR images acquired during night generally have calmer atmospheric conditions. Likewise, cold high-altitude locations have less problems than warm low-altitude locations.**\n\n[[Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation.pdf#page=26&annotation=533R|Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation, page 26]]",
-      "styleAttributes": {},
-      "x": -1520,
-      "y": -382,
-      "width": 460,
-      "height": 200
-    },
-    {
-      "id": "a32514c2bbf0be35",
-      "type": "text",
-      "text": "**Hydrostatic delay and ionospheric influences can be largerly ignored for C-band radar.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=263&annotation=4308R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 263]]",
-      "styleAttributes": {},
-      "x": -1520,
-      "y": -1444,
-      "width": 660,
-      "height": 140
-    },
-    {
-      "id": "ee93ddacbcef06c2",
-      "type": "text",
-      "text": "**To know which area of the ingram is the reference area with undisturbed phase, we need to use auxilliary data.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=232&annotation=4265R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 232]]",
-      "styleAttributes": {},
-      "x": -1520,
-      "y": -1604,
-      "width": 680,
-      "height": 140
-    },
-    {
-      "id": "f540e2f80d545ef0",
-      "type": "text",
-      "text": "**Errors induced by the integration of phase gradients can propagate through the ingram.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=130&annotation=3819R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 130]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": -2129,
-      "width": 540,
-      "height": 140
-    },
-    {
-      "id": "cda8ada6691cc9ab",
-      "type": "text",
-      "text": "**Perpendicular baselines indicate sensitivity to topographic height, phase gradient decorrelation amount and phase unwrapping effectiveness. Good perp baselines for topographic mapping range between 100-500 m.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=62&annotation=3371R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 62]]",
-      "styleAttributes": {},
-      "x": -1370,
-      "y": -3549,
-      "width": 540,
-      "height": 210
-    },
-    {
-      "id": "e58293e77df3ecda",
-      "type": "text",
-      "text": "**In sand,  decorrelation is caused by erosional or depositional processes, and the movement of the sand particles. Rapid temporal decorrelation over very short time.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=2&annotation=159R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 2]]",
-      "styleAttributes": {},
-      "x": -2210,
-      "y": 580,
-      "width": 420,
-      "height": 220
-    },
-    {
-      "id": "f105e9e41ebfc767",
-      "type": "text",
-      "text": "**Atmospheric delay scale regimes:**\n1. **Larger than the thickness of the turbulent layer (2-200 km)**\n2. **Smaller than the thickness of the turbulent layer (resolution cell to 2km). Smoother refractive behavior.**\n3. **No physical explanation, very small.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=161&annotation=3985R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 161]]",
-      "styleAttributes": {},
-      "x": -2200,
-      "y": -1779,
-      "width": 580,
-      "height": 250
-    },
-    {
-      "id": "0f2be1c54c1f8d57",
-      "type": "text",
-      "text": "**Types of atmospheric signal:**\n1. **Turbulent mixing - turbulent processes in the atmosphere cause spatial heterogeneity in the refractivity in both acquisitions, affects flat and mountainous terrain.**\n2. **Vertical stratification - different vertical refractivity profiles during the acquisitions, assuming there is no heterogeneity within the horizontal layers. Affects only mountainous terrain, and is correlated with topography.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=150&annotation=3902R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 150]]",
-      "styleAttributes": {},
-      "x": -2200,
-      "y": -1509,
-      "width": 640,
-      "height": 340
-    },
-    {
-      "id": "f38d6d5205c4d313",
-      "type": "text",
-      "text": "**Study showed that coherence varies with dune distance from the sea - the further from the sea, the higher the coherence.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=8&annotation=348R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 8]]",
-      "styleAttributes": {},
-      "x": -2210,
-      "y": 36,
-      "width": 380,
-      "height": 240
-    },
-    {
-      "id": "55e1c283c2113fe8",
-      "type": "text",
-      "text": "**Over sandy areas, SNR is strongly affected by weak backscattered signal. In X-band, sandy surfaces appear smooth and flat.**\n\n<mark style=\"background: #ABF7F7A6;\">How do sandy surfaces appear in C-band?</mark>\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=9&annotation=392R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 9]]",
-      "styleAttributes": {},
-      "x": -2210,
-      "y": 300,
-      "width": 420,
-      "height": 260
-    },
-    {
-      "id": "23e781bfdf62a027",
-      "type": "text",
-      "text": "**Havivi et al. 2018 were the first to separate the features of a sandy area and examine individual dunes.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=11&annotation=425R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 11]]",
-      "styleAttributes": {},
-      "x": -1820,
-      "y": 36,
-      "width": 400,
-      "height": 180
-    },
-    {
       "id": "029e68f6d528a207",
       "type": "text",
       "text": "**2D relative phase signal is a 2pi modulus of the unknown absolute phase signal. The inverse problem is to unwrap this modulus to a linear scale, but it is non-unique and non-linear. Noise, geometric problems can cause issues.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=73&annotation=3467R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 73]]",
@@ -1319,16 +1179,6 @@
       "y": -2384,
       "width": 440,
       "height": 225
-    },
-    {
-      "id": "c3dde35035e2abda",
-      "type": "text",
-      "text": "**Sources of decorrelation:**\n1. **Baseline or geometric (surface) decorrelation - difference in incidence angles between acquisitions.**\n2. **Doppler centroid decorrelation - difference in Doppler centroids between acquisitions.**\n3. **Volume decorrelation - penetration of the radar wave in the scattering medium.**\n4. **Thermal/system noise - characteristics of the system, including gain factors and antenna characteristics.**\n5. **Temporal terrain decorrelation - physical changes in the terrain, affecting the scattering characteristics of the surface.**\n6. **Processing decorrelation - insufficient coregistration and interpolation.**\n\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=117&annotation=3775R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 117]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": -3549,
-      "width": 590,
-      "height": 500
     },
     {
       "id": "b15511871af70b55",
@@ -1361,54 +1211,224 @@
       "height": 200
     },
     {
-      "id": "49421e7dbd37054d",
+      "id": "6e44fb59d99e106c",
       "type": "text",
-      "text": "**Mention of the first observations of atmospheric delay variations (1995-1996)**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=149&annotation=3841R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 149]]",
+      "text": "**Positive elevation changes concentrated on the E side of blowouts. Largest elevation losses were on the stoss slope of deposition lobes, usually concentrated on the W side of the blowout.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=6&annotation=228R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 6]]",
       "styleAttributes": {},
-      "x": -2200,
-      "y": -1149,
+      "x": -4560,
+      "y": 1340,
+      "width": 560,
+      "height": 200
+    },
+    {
+      "id": "5e87e4491f8d14cc",
+      "type": "text",
+      "text": "**During 2018-2019, max elevation loss was up to -3.29 m, while gain was +5.31 m**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=6&annotation=238R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 6]]",
+      "styleAttributes": {},
+      "x": -4560,
+      "y": 1550,
+      "width": 560,
+      "height": 140
+    },
+    {
+      "id": "ef4481aa82972b03",
+      "type": "text",
+      "text": "**Long-term elevation changes appear to be more widespread throughout the bare-sand surface class. Maximum decrease could reach -15.2 m, and increase could be up to +15.63 m**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=6&annotation=258R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 6]]",
+      "styleAttributes": {},
+      "x": -4560,
+      "y": 1720,
+      "width": 560,
+      "height": 180
+    },
+    {
+      "id": "237e8f21fcfa4f7f",
+      "type": "text",
+      "text": "**Dune elevation is decreasing in height by ~2cm/yr, in some places by +-1.3 m/yr. Negative balance is linked to lack of sediment supply from outside the system.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=10&annotation=491R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 10]]",
+      "styleAttributes": {},
+      "x": -3980,
+      "y": 1227,
+      "width": 480,
+      "height": 200
+    },
+    {
+      "id": "a6cfc1cef8064e5a",
+      "type": "text",
+      "text": "**If the size of the resolution cell is many times larger than the radar wavelength, many scatterers contribute to the response for one resolution cell. We cannot determine individual responses within a resolution cell like that. This is the *speckle*.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=108&annotation=3613R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 108]]",
+      "styleAttributes": {},
+      "x": -6000,
+      "y": -942,
+      "width": 480,
+      "height": 235
+    },
+    {
+      "id": "ed766d10271086a0",
+      "type": "text",
+      "text": "***Multilooking* can be applied in the range-Doppler domain by segmenting the Doppler spectrum in a number of subsets (*looks*) and summing these looks.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=51&annotation=3267R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 51]]",
+      "styleAttributes": {},
+      "x": -6520,
+      "y": -1277,
+      "width": 480,
+      "height": 210
+    },
+    {
+      "id": "b0e128c498b1012c",
+      "type": "text",
+      "text": "**Areas farther away from the edge of the bare-sand surface class predominantly experienced larger elevation changes.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=6&annotation=278R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 6]]",
+      "styleAttributes": {},
+      "x": -4000,
+      "y": 860,
+      "width": 560,
+      "height": 147
+    },
+    {
+      "id": "0d19e83f9f189d2d",
+      "type": "text",
+      "text": "**Locations lying at higher altitudes than their surroundings are more likely to decrease in height, while those at lower than the surroundings are expected to increase in height.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=7&annotation=299R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 7]]",
+      "styleAttributes": {},
+      "x": -4000,
+      "y": 1020,
+      "width": 520,
+      "height": 180
+    },
+    {
+      "id": "59d302301c3199aa",
+      "type": "text",
+      "text": "**Marl squeeze increased the height of the foot of the terrace slope by 42 cm (8.4 cm)**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=12&annotation=516R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 12]]",
+      "styleAttributes": {},
+      "x": -4560,
+      "y": 1180,
+      "width": 520,
+      "height": 140
+    },
+    {
+      "id": "558bfd0cce3d4602",
+      "type": "text",
+      "text": "**S-SE winds in summers of 2004-2016 changed the form and depth of deflation hollows, up to 5-20 cm/day.**\n\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=11&annotation=445R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 11]]",
+      "styleAttributes": {},
+      "x": -4560,
+      "y": 860,
       "width": 540,
       "height": 140
     },
     {
-      "id": "139fae3e7118bfbf",
+      "id": "5d375cc5e27b0871",
       "type": "text",
-      "text": "**Turbulent mixing is a result of different tropospheric processes (solar heating, wind direction difference, velocity at layers, frictional drag, large scale weather systems). **\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=151&annotation=3923R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 151]]",
+      "text": "**Between Apr - Sep 2016, \"marl\" terrace ledges declined in height by 5-64 cm (1-12.8 cm/month)**\n[[Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS.pdf#page=12&annotation=506R|Cesnulevicius_2017_Intensity_of_geodynamic_processes_in_LT_part_of_CS, page 12]]\n\n",
       "styleAttributes": {},
-      "x": -2200,
-      "y": -990,
-      "width": 620,
-      "height": 180
+      "x": -4560,
+      "y": 1020,
+      "width": 540,
+      "height": 140
     },
     {
-      "id": "3aca8c87a8c65c71",
+      "id": "290f2ebd0179751b",
       "type": "text",
-      "text": "**Increase in ionospheric electron content causes a phase advance, while increase in partial water vapor pressure causes a phase delay.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=232&annotation=4255R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 232]]",
+      "text": "**Closer to the shoreline areas experienced more elevation change. This could be due to more overgrown surfaces on W side, or due to sand plain forests which cut off sand transport and protect the lower W section of the ridge from dominant W winds.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=7&annotation=299R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 7]]",
       "styleAttributes": {},
-      "x": -2200,
-      "y": -595,
+      "x": -5400,
+      "y": 860,
+      "width": 560,
+      "height": 240
+    },
+    {
+      "id": "0460ace88a836fbc",
+      "type": "text",
+      "text": "**Vegetation cover reduces momentum of wind and lowers erosional power, covers sediments and protects the surface. It also traps sand particles.**\n\n[[Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis.pdf#page=8&annotation=330R|Tijunaityte_2023_Dynamics_of_Pilkosios_Dunes_relief_2010-2022_based_on_DEM_model_analysis, page 8]]",
+      "styleAttributes": {},
+      "x": -5400,
+      "y": 1116,
       "width": 520,
       "height": 180
     },
     {
-      "id": "0da9a260d46604f7",
+      "id": "439660acbfa55c27",
       "type": "text",
-      "text": "**Surface pressure has minimal spatial variation within a typical ingram area (100x100 km) and behaves smoothly. Hydrostatic delay in ingrams is smooth and manifests as a phase trend. It has a limited influence.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=222&annotation=4127R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 222]]",
+      "text": "**PDF of the phase has a uniform distribution, but the phase of the complex product of two circular Gaussian signals is not, as long as the two signals have some correlation.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=110&annotation=3644R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 110]]",
       "styleAttributes": {},
-      "x": -2200,
-      "y": -380,
-      "width": 520,
-      "height": 195
+      "x": -6520,
+      "y": -907,
+      "width": 480,
+      "height": 200
     },
     {
-      "id": "6e752d2a2a7c87ed",
+      "id": "781c6a44ad2a6e63",
       "type": "text",
-      "text": "**First d-InSAR use was vertical motion detection caused by soil swelling of irrigated fields (cited in link)**\n\n[[Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation.pdf#page=3&annotation=458R|Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation, page 3]]",
+      "text": "**Repeating orbit configuration leads to a rhomboid pattern in the ground footprint, resulting areas of high observation frequency next to areas of low observation frequency.**\n\n[[Bauer-Marschallinger_2018_Toward_Global_Soil_Moisture_Monitoring_S1.pdf#page=4&annotation=280R|Bauer-Marschallinger_2018_Toward_Global_Soil_Moisture_Monitoring_S1, page 4]]",
+      "styleAttributes": {},
+      "x": -6520,
+      "y": -680,
+      "width": 460,
+      "height": 240
+    },
+    {
+      "id": "ccb03c14ab2b3e95",
+      "type": "text",
+      "text": "**The variation of the Doppler frequency during the passage of the scatterer through the beam is expressed by the *Doppler bandwidth*.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=49&annotation=3205R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 49]]",
+      "styleAttributes": {},
+      "x": -6520,
+      "y": -1477,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "556481f5bf80c490",
+      "type": "text",
+      "text": "**Single scatterers appear shifted in different range bins in consecutive pulses. This is *range migration*.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=51&annotation=3247R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 51]]",
+      "styleAttributes": {},
+      "x": -6060,
+      "y": -1622,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "3f0f09a5401a2011",
+      "type": "text",
+      "text": "**The *zero-Doppler* is the direction in which the Doppler frequency equals to zero.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=49&annotation=3185R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 49]]",
+      "styleAttributes": {},
+      "x": -6520,
+      "y": -1647,
+      "width": 440,
+      "height": 160
+    },
+    {
+      "id": "a9e4ab6110789b52",
+      "type": "text",
+      "text": "**Scatterers that have a velocity component in the direction of the radar appear displaced in the focused image.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=50&annotation=3236R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 50]]",
+      "styleAttributes": {},
+      "x": -6000,
+      "y": -1417,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "271454c28314d045",
+      "type": "text",
+      "text": "***Speckle* - pixel intensity variation for a distributed scene, expressed by the exponential probability density function.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=110&annotation=3634R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 110]]\n",
+      "styleAttributes": {},
+      "x": -6000,
+      "y": -1212,
+      "width": 380,
+      "height": 250
+    },
+    {
+      "id": "774a3655addecc33",
+      "type": "text",
+      "text": "**For point scatterers, the amplitude behavior is an indication of phase variance.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=115&annotation=3683R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 115]]",
+      "styleAttributes": {},
+      "x": -6520,
+      "y": -1057,
+      "width": 480,
+      "height": 140
+    },
+    {
+      "id": "c847d237e5350973",
+      "type": "text",
+      "text": "**Repeat-pass interferometry is used for mapping: topography, deformation, change detection, atmospheric delay.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=35&annotation=3067R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001)(en)(308s) - libgen.li, page 35]]",
       "styleAttributes": {},
       "x": -3340,
-      "y": -3165,
-      "width": 460,
-      "height": 180
+      "y": -1934,
+      "width": 380,
+      "height": 200
     },
     {
       "id": "a723c300f0d809ca",
@@ -1419,6 +1439,16 @@
       "y": -1499,
       "width": 480,
       "height": 225
+    },
+    {
+      "id": "3aca8c87a8c65c71",
+      "type": "text",
+      "text": "**Increase in ionospheric electron content causes a phase advance, while increase in partial water vapor pressure causes a phase delay.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=232&annotation=4255R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 232]]",
+      "styleAttributes": {},
+      "x": -2200,
+      "y": -595,
+      "width": 520,
+      "height": 180
     },
     {
       "id": "e58c6647dfa344b9",
@@ -1451,214 +1481,114 @@
       "height": 300
     },
     {
-      "id": "bcd028f8a09e2343",
+      "id": "4910644f6b58c1c2",
       "type": "text",
-      "text": "**For an effective baseline larger than zero, topographic signal is always mixed in with deformation, so *differential* interferometry is needed.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=34&annotation=3056R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001)(en)(308s) - libgen.li, page 34]]",
+      "text": " **Sensitivity of the tropospheric refractivity is highest for spatial variation in water vapor content - 4-20 times higher than for temperature variation.**\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=227&annotation=4202R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 227]]",
       "styleAttributes": {},
-      "x": -3340,
-      "y": -2194,
-      "width": 360,
+      "x": -2200,
+      "y": -790,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "139fae3e7118bfbf",
+      "type": "text",
+      "text": "**Turbulent mixing is a result of different tropospheric processes (solar heating, wind direction difference, velocity at layers, frictional drag, large scale weather systems). **\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=151&annotation=3923R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 151]]",
+      "styleAttributes": {},
+      "x": -2200,
+      "y": -990,
+      "width": 620,
+      "height": 180
+    },
+    {
+      "id": "49421e7dbd37054d",
+      "type": "text",
+      "text": "**Mention of the first observations of atmospheric delay variations (1995-1996)**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=149&annotation=3841R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 149]]",
+      "styleAttributes": {},
+      "x": -2200,
+      "y": -1149,
+      "width": 540,
+      "height": 140
+    },
+    {
+      "id": "f540e2f80d545ef0",
+      "type": "text",
+      "text": "**Errors induced by the integration of phase gradients can propagate through the ingram.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=130&annotation=3819R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 130]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": -2129,
+      "width": 540,
+      "height": 140
+    },
+    {
+      "id": "f105e9e41ebfc767",
+      "type": "text",
+      "text": "**Atmospheric delay scale regimes:**\n1. **Larger than the thickness of the turbulent layer (2-200 km)**\n2. **Smaller than the thickness of the turbulent layer (resolution cell to 2km). Smoother refractive behavior.**\n3. **No physical explanation, very small.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=161&annotation=3985R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 161]]",
+      "styleAttributes": {},
+      "x": -2200,
+      "y": -1779,
+      "width": 580,
+      "height": 250
+    },
+    {
+      "id": "6f903f84dea6bc50",
+      "type": "text",
+      "text": "**Dunes closer to the sea might have stronger winds and more human activity, and therefore decreased stabilility.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=8&annotation=348R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 8]]",
+      "styleAttributes": {},
+      "x": -1760,
+      "y": 240,
+      "width": 340,
       "height": 240
     },
     {
-      "id": "3caf9bca87695533",
+      "id": "7a205cec142dd8e2",
       "type": "text",
-      "text": "***Effective/perpendicular baseline* - the effective distance between two sensors measured perpendicular to the look direction.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=54&annotation=3319R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 54]]",
+      "text": "**InSAR is suitable for identifying mobile sand transport but not dune movement.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=2&annotation=170R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 2]]",
       "styleAttributes": {},
-      "x": -2960,
-      "y": -2194,
-      "width": 460,
+      "x": -1400,
+      "y": 36,
+      "width": 340,
+      "height": 220
+    },
+    {
+      "id": "e3bf24473cf13eb6",
+      "type": "text",
+      "text": "**Even the most stable dune areas of the dune field became unstable and lost coherence over time.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=7&annotation=212R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 7]]",
+      "styleAttributes": {},
+      "x": -1760,
+      "y": 516,
+      "width": 340,
+      "height": 220
+    },
+    {
+      "id": "a53516a7da95a769",
+      "type": "text",
+      "text": "**Crests might have higher stability than windward slopes.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=7&annotation=254R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 7]]",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": 276,
+      "width": 320,
       "height": 180
     },
     {
-      "id": "f1aa8a6510b86f33",
+      "id": "e58293e77df3ecda",
       "type": "text",
-      "text": "**The phase observation for a single resolution cell can be regarded as the sum of the phase proportional to the distance and the phase due to scattering characteristics of the cell (disregarding atmopsheric delay).**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=54&annotation=3329R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 54]]",
+      "text": "**In sand,  decorrelation is caused by erosional or depositional processes, and the movement of the sand particles. Rapid temporal decorrelation over very short time.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=2&annotation=159R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 2]]",
       "styleAttributes": {},
-      "x": -3340,
-      "y": -1714,
-      "width": 520,
-      "height": 200
-    },
-    {
-      "id": "c847d237e5350973",
-      "type": "text",
-      "text": "**Repeat-pass interferometry is used for mapping: topography, deformation, change detection, atmospheric delay.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=35&annotation=3067R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001)(en)(308s) - libgen.li, page 35]]",
-      "styleAttributes": {},
-      "x": -3340,
-      "y": -1934,
-      "width": 380,
-      "height": 200
-    },
-    {
-      "id": "a02a45f2448b7f41",
-      "type": "text",
-      "text": "***Coherent imaging* - scattering phase is unpredictable but deterministic, i.e. if the same measurement would be repeated under exactly the same conditions, it would yield the same phase.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=54&annotation=3329R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 54]]",
-      "styleAttributes": {},
-      "x": -2940,
-      "y": -1994,
-      "width": 500,
-      "height": 200
-    },
-    {
-      "id": "967f2757454d8b24",
-      "type": "text",
-      "text": "**A complex interferogram is constructed by a pointwise complex multiplication of corresponding pixels in both datasets.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=70&annotation=3435R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 70]]",
-      "styleAttributes": {},
-      "x": -2800,
-      "y": -1774,
-      "width": 400,
-      "height": 200
-    },
-    {
-      "id": "af475081b718c13a",
-      "type": "text",
-      "text": "**Soil moisture, type and vegetation can cause phase disturbances.**\n\n[[Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation.pdf#page=2&annotation=310R|Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation, page 2]]",
-      "styleAttributes": {},
-      "x": 120,
-      "y": -20,
-      "width": 460,
-      "height": 180
-    },
-    {
-      "id": "f68d43062622f3d2",
-      "type": "text",
-      "text": "**Phase disturbances and amplitude decrease can be high for small values of the real part of the dielectric constant, up to almost 1 cm for C-band in ases where a soil nears dielectric properties of air (slightly wet sand, remnant moisture in grass roots on dry sand etc.)**\n\n[[Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation.pdf#page=2&annotation=310R|Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation, page 2]]",
-      "styleAttributes": {},
-      "x": 120,
-      "y": 200,
-      "width": 520,
-      "height": 260
-    },
-    {
-      "id": "85110cb1ccde72d0",
-      "type": "text",
-      "text": "**Coherence change detection method limitations:**\n1. **Fuzzy results due to kernel use in formula.**\n2. **Low coherence if perpendicular baseline is high.**\n3. **Coherence decreases with local slope angle.**\n4. **Coherence is low over vegetation.**\n5. **Coherence decreases with increasing soil moisture.**\n6. **The smaller the pixel, the longer coherence can be preserved.**\n7. **Meteorological condition variation decreases coherence.**\n\n[[Closson_2017_InSAR_Coherence_and_Intensity_Changes_Detection.pdf#page=18&annotation=396R|Closson_2017_InSAR_Coherence_and_Intensity_Changes_Detection, page 18]]",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -2360,
-      "width": 520,
-      "height": 400
-    },
-    {
-      "id": "de66dc888fb9f890",
-      "type": "text",
-      "text": "**A 3D displacement has a North, East and Up component, but is projected to a single slant-range component in the radar line-of-sight.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=181&annotation=4028R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 181]]",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -1544,
-      "width": 620,
-      "height": 160
-    },
-    {
-      "id": "0b6fae4e7abf2fcb",
-      "type": "text",
-      "text": "**We cannot retrieve the full displacement vector. Using a combination of ascending and descending ingrams, we can at best retrieve two of the three. We could make assumptions to restrict the vector.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=182&annotation=4043R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 182]]",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -1764,
-      "width": 620,
-      "height": 180
-    },
-    {
-      "id": "83da741813b79acf",
-      "type": "text",
-      "text": "**Quantization noise: digitization quantizes voltages and introduces a random component. Bitrate can help.**\n\n[[Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation.pdf#page=20&annotation=511R|Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation, page 20]]",
-      "styleAttributes": {},
-      "x": 1120,
-      "y": -1764,
+      "x": -2210,
+      "y": 580,
       "width": 420,
       "height": 220
     },
     {
-      "id": "d1adacd7045c39dc",
+      "id": "55e1c283c2113fe8",
       "type": "text",
-      "text": "**Phase disturbances of microwaves travelling between media are caused by the difference in dielectric properties between these media.**\n\n[[Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation.pdf#page=9&annotation=360R|Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation, page 9]]",
+      "text": "**Over sandy areas, SNR is strongly affected by weak backscattered signal. In X-band, sandy surfaces appear smooth and flat.**\n\n<mark style=\"background: #ABF7F7A6;\">How do sandy surfaces appear in C-band?</mark>\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=9&annotation=392R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 9]]",
       "styleAttributes": {},
-      "x": 1120,
-      "y": -1520,
-      "width": 560,
-      "height": 180
-    },
-    {
-      "id": "a8a3bd581a9edf74",
-      "type": "text",
-      "text": "**Small changes in permittivities might lead to relatively large phase disturbances.**\n\n[[Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation.pdf#page=6&annotation=330R|Westerhoff_2020_Explanation_of_InSAR_Phase_Disturbances_by_Seasonal_Characteristics_of_Soil_and_Vegetation, page 6]]",
-      "styleAttributes": {},
-      "x": 1120,
-      "y": -1304,
-      "width": 460,
-      "height": 160
-    },
-    {
-      "id": "35ffcdecd81a0710",
-      "type": "text",
-      "text": "**I could define asymmetric masks during coherence calculation to prevent information loss.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=3&annotation=181R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 3]]",
-      "styleAttributes": {},
-      "x": 0,
-      "y": -3783,
-      "width": 380,
-      "height": 180
-    },
-    {
-      "id": "5f8b4cd4fadefdb7",
-      "type": "text",
-      "text": "**Standard deviation of the interferometric phase as a function of coherence:**\n\n![[Pasted image 20250122141229.png]]\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=114&annotation=3673R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 114]]",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -3764,
-      "width": 460,
-      "height": 460
-    },
-    {
-      "id": "6982c34771538b1b",
-      "type": "text",
-      "text": "**Cited:  using a DEM to extract topographic phase.**\n\n[[Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation.pdf#page=16&annotation=489R|Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation, page 16]]",
-      "styleAttributes": {},
-      "x": 80,
-      "y": -1784,
-      "width": 380,
-      "height": 180
-    },
-    {
-      "id": "c4e530f1bee1024d",
-      "type": "text",
-      "text": "**Systematic phase variation needs to be exlcuded if coherence is used for classifying terrain types derived from the noise level of the data.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=117&annotation=3745R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 117]]",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -2989,
-      "width": 500,
-      "height": 180
-    },
-    {
-      "id": "9e805f1b9a153ae1",
-      "type": "text",
-      "text": " **Complex coherence between two zero-mean circular Gaussian variables:**\n![[Pasted image 20250122141335.png]]\n![[Pasted image 20250122141410.png]]\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=115&annotation=3693R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 115]]",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -3289,
-      "width": 500,
-      "height": 280
-    },
-    {
-      "id": "0d4174758fb99f60",
-      "type": "text",
-      "text": "**For low-coherence areas or with small averaging windows, coherence is overestimated. If phase changes too fast within a window, underestimated.**\n\n[[Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation.pdf#page=19&annotation=500R|Burgmann_2000_InSAR_Measure_Earth_Surface_Topography_and_Deformation, page 19]]",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -2780,
-      "width": 500,
-      "height": 180
-    },
-    {
-      "id": "60f718ef488b361c",
-      "type": "text",
-      "text": "**Coherence has a physical interpretation - it represents the fraction of the power scattered by unchanged parts of the scene.**\n\n[[Closson_2017_InSAR_Coherence_and_Intensity_Changes_Detection.pdf#page=9&annotation=363R|Closson_2017_InSAR_Coherence_and_Intensity_Changes_Detection, page 9]]",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -2580,
-      "width": 520,
-      "height": 180
+      "x": -2210,
+      "y": 300,
+      "width": 420,
+      "height": 260
     },
     {
       "id": "3ba4a4dfe5f18e08",
@@ -1668,6 +1598,36 @@
       "x": -900,
       "y": 20,
       "width": 420,
+      "height": 240
+    },
+    {
+      "id": "f77b594906cb0542",
+      "type": "text",
+      "text": "***Surface soil moisture* - water content of the top layer of soil.**\n\n[[Bauer-Marschallinger_2018_Toward_Global_Soil_Moisture_Monitoring_S1.pdf#page=2&annotation=259R|Bauer-Marschallinger_2018_Toward_Global_Soil_Moisture_Monitoring_S1, page 2]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 1081,
+      "width": 480,
+      "height": 180
+    },
+    {
+      "id": "23e781bfdf62a027",
+      "type": "text",
+      "text": "**Havivi et al. 2018 were the first to separate the features of a sandy area and examine individual dunes.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=11&annotation=425R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 11]]",
+      "styleAttributes": {},
+      "x": -1820,
+      "y": 36,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "f38d6d5205c4d313",
+      "type": "text",
+      "text": "**Study showed that coherence varies with dune distance from the sea - the further from the sea, the higher the coherence.**\n\n[[Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence.pdf#page=8&annotation=348R|Havivi_2018_Mapping_dune_dynamics_by_InSAR_coherence, page 8]]",
+      "styleAttributes": {},
+      "x": -2210,
+      "y": 36,
+      "width": 380,
       "height": 240
     },
     {
@@ -1699,6 +1659,76 @@
       "y": 940,
       "width": 500,
       "height": 180
+    },
+    {
+      "id": "0da9a260d46604f7",
+      "type": "text",
+      "text": "**Surface pressure has minimal spatial variation within a typical ingram area (100x100 km) and behaves smoothly. Hydrostatic delay in ingrams is smooth and manifests as a phase trend. It has a limited influence.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=222&annotation=4127R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 222]]",
+      "styleAttributes": {},
+      "x": -2200,
+      "y": -382,
+      "width": 520,
+      "height": 195
+    },
+    {
+      "id": "ee93ddacbcef06c2",
+      "type": "text",
+      "text": "**To know which area of the ingram is the reference area with undisturbed phase, we need to use auxilliary data.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=232&annotation=4265R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 232]]",
+      "styleAttributes": {},
+      "x": -1610,
+      "y": -1620,
+      "width": 500,
+      "height": 140
+    },
+    {
+      "id": "a32514c2bbf0be35",
+      "type": "text",
+      "text": "**Hydrostatic delay and ionospheric influences can be largerly ignored for C-band radar.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=263&annotation=4308R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 263]]",
+      "styleAttributes": {},
+      "x": -1610,
+      "y": -1460,
+      "width": 440,
+      "height": 140
+    },
+    {
+      "id": "57da3aaadf0172ab",
+      "type": "text",
+      "text": "**Atmospheric signal causes uncertainty. It is not noise immediately since the effects are spatially correlated and significant.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=84&annotation=3540R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 84]]",
+      "styleAttributes": {},
+      "x": -1610,
+      "y": -1300,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "ddd3700f10c53164",
+      "type": "text",
+      "text": "**Increase in temperature decreases refractivity. Higher temperatures increase propagation velocity. Higher water vapor pressure will decrease velocity.**\n\n[[Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001).pdf#page=223&annotation=4138R|Hanssen R. F. - Radar Interferometry_ Data Interpretation and Error Analysis (2001), page 223]]",
+      "styleAttributes": {},
+      "x": -1560,
+      "y": -1100,
+      "width": 440,
+      "height": 220
+    },
+    {
+      "id": "72bcb8ef76b69ecf",
+      "type": "text",
+      "text": "**It is rare that relative tropospheric delays are constant across cells due to local turbulences.**\n\n[[Ding_2008_Atmospheric_Effects_On_InSAR_Measurements_and_Mitigation.pdf#page=6&annotation=172R|Ding_2008_Atmospheric_Effects_On_InSAR_Measurements_and_Mitigation, page 6]]",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": -1543,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "f274526e3637caa5",
+      "type": "text",
+      "text": "**Liquid water content in stratiform clouds is low, does not cause range errors.\nLiquid water content in the cumulus clouds can cause significant delays.**\n\n[[Ding_2008_Atmospheric_Effects_On_InSAR_Measurements_and_Mitigation.pdf#page=5&annotation=151R|Ding_2008_Atmospheric_Effects_On_InSAR_Measurements_and_Mitigation, page 5]]",
+      "styleAttributes": {},
+      "x": -1120,
+      "y": -1339,
+      "width": 420,
+      "height": 220
     }
   ],
   "edges": [],
